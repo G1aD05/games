@@ -1,0 +1,5365 @@
+{
+ "games": {
+  "Request a Feature": {
+   "title": "Request a Feature",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/apps/request.html",
+   "files": [
+    "request.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "2 Player Battle": {
+   "title": "2 Player Battle",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/2_player_battle.html",
+   "files": [
+    "2_player_battle.html",
+    "thumbnail.svg"
+   ]
+  },
+  "2048": {
+   "title": "2048",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/2048.html",
+   "files": [
+    "2048.html",
+    "thumbnail.png"
+   ]
+  },
+  "2Doom": {
+   "title": "2Doom",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/2doom/index.html",
+   "files": [
+    "2doom/2DOOM.js",
+    "2doom/splash.png",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "3Dash": {
+   "title": "3Dash",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/3dash/index.html",
+   "files": [
+    "Build/GeometryDash.data.unityweb",
+    "Build/GeometryDash.framework.js.unityweb",
+    "Build/GeometryDash.loader.js",
+    "Build/GeometryDash.wasm.unityweb",
+    "index.html",
+    "logo.png",
+    "style.css",
+    "thumbnail.png",
+    "v2.02c5b63d689c6bc2f83c.js"
+   ]
+  },
+  "99 Nights In The Forest": {
+   "title": "99 Nights In The Forest",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/99_nights_in_the_forest/index.html",
+   "files": [
+    "Build/Build.framework.js",
+    "Build/Build.loader.js",
+    "index.html",
+    "index.html",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "A Koopa\u2019s Revenge": {
+   "title": "A Koopa\u2019s Revenge",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/a_koopas_revenge/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/a_koopas_revenge/a_koopas_revenge.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "A Koopa\u2019s Revenge 2": {
+   "title": "A Koopa\u2019s Revenge 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/a_koopas_revenge_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/a_koopas_revenge_2/a_koopas_revenge_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "A Plumber For All Seasons": {
+   "title": "A Plumber For All Seasons",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/a_plummer_for_all_seasons/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/a_plummer_for_all_seasons/a-plumber-for-all-seasons_2021-11-22(1).smc",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Achievement Unlocked 1": {
+   "title": "Achievement Unlocked 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/achievement_unlocked_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/achievement_unlocked_1/achievement_unlocked_1.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Achievement Unlocked 2": {
+   "title": "Achievement Unlocked 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/achievement_unlocked_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/achievement_unlocked_2/achievement_unlocked_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Achievement Unlocked 3": {
+   "title": "Achievement Unlocked 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/achievement_unlocked_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/achievement_unlocked_3/achievement_unlocked_3.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Advent Neon": {
+   "title": "Advent Neon",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/advent_neon/index.html",
+   "files": [
+    "AdventNEON/AdventNEON.js.zip",
+    "AdventNEON/splash.png",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "AdVenture Capitalist": {
+   "title": "AdVenture Capitalist",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/adventure_capitalist/index.html",
+   "files": [
+    "Release/UnityConfig.js",
+    "TemplateData/UnityProgress.js",
+    "TemplateData/style.css",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Age of War": {
+   "title": "Age of War",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/age_of_war/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/age_of_war/age_of_war.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Age of War 2": {
+   "title": "Age of War 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/age_of_war_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/age_of_war_2/age_of_war_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Alien Hominid": {
+   "title": "Alien Hominid",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/ailen_hominid/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/ailen_hominid/alienhominid.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Alien vs Predator": {
+   "title": "Alien vs Predator",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/alien_vs_predator/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Aliens Eradication": {
+   "title": "Aliens Eradication",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gzdoom@latest/aliens_eradication/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom/script.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@7a19791/aliens_eradication/settings.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Among Us": {
+   "title": "Among Us",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/among_us.html",
+   "files": [
+    "among_us.html",
+    "thumbnail.webp"
+   ]
+  },
+  "Angry Birds": {
+   "title": "Angry Birds",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/angry_birds/index.html",
+   "files": [
+    "UnityProgress.js",
+    "birds.js",
+    "birds.json",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Angry Birds 2": {
+   "title": "Angry Birds 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/angry_birds_2/index.html",
+   "files": [
+    "Build/UnityLoader.js",
+    "Build/angry.json",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Angry Birds Space": {
+   "title": "Angry Birds Space",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/angry_birds_space/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Animdustry": {
+   "title": "Animdustry",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/animdustry.html",
+   "files": [
+    "animdustry.html",
+    "thumbnail.png"
+   ]
+  },
+  "Appel": {
+   "title": "Appel",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/appel.html",
+   "files": [
+    "appel.html",
+    "thumbnail.png"
+   ]
+  },
+  "Arena": {
+   "title": "Arena",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/arena.html",
+   "files": [
+    "arena.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Arrow Gaem": {
+   "title": "Arrow Gaem",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/arrow_gaem.html",
+   "files": [
+    "arrow_gaem.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Asteroids": {
+   "title": "Asteroids",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/asteroids.html",
+   "files": [
+    "asteroids.html",
+    "thumbnail.webp"
+   ]
+  },
+  "Awesome Tanks": {
+   "title": "Awesome Tanks",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/awesome_tanks/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/awesome_tanks/awesome_tanks.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Awesome Tanks 2": {
+   "title": "Awesome Tanks 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/awesome_tanks_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/awesome_tanks_2/awesome_tanks_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "B3313": {
+   "title": "B3313",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/b3313/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.7z",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Bacon May Die": {
+   "title": "Bacon May Die",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/bacon_may_die/index.html",
+   "files": [
+    "html5game/BaconMayDie.js",
+    "html5game/bg.jpg",
+    "html5game/spider.png",
+    "html5game/tbg.png",
+    "html5game/torch.gif",
+    "index.html",
+    "index.html",
+    "poki-sdk.js",
+    "thumbnail.png"
+   ]
+  },
+  "Bad Piggies": {
+   "title": "Bad Piggies",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/bad_piggies/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/bad_piggies/badpiggies.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Bad Time Simulator": {
+   "title": "Bad Time Simulator",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/bad_time_simulator/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Balatro": {
+   "title": "Balatro",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/balatro/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Baldi\u2019s Basics": {
+   "title": "Baldi\u2019s Basics",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/baldi/index.html",
+   "files": [
+    "Build/Export.framework.js",
+    "Build/Export.loader.js",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Baseball Bros": {
+   "title": "Baseball Bros",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/baseball_bros/index.html",
+   "files": [
+    "BaseballBros.js",
+    "assets/bbbro.png",
+    "assets/bbro.png",
+    "assets/fbro.png",
+    "assets/kbro.png",
+    "assets/loading4.png",
+    "assets/sbro.png",
+    "assets/wbro.png",
+    "favicon.png",
+    "firebase-app.js",
+    "firebase-auth.js",
+    "firebase-firestore.js",
+    "index.html",
+    "index.html",
+    "manifest.json",
+    "tag.min.js",
+    "thumbnail.png"
+   ]
+  },
+  "Basket Bros": {
+   "title": "Basket Bros",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/basket_bros.html",
+   "files": [
+    "basket_bros.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Basketball Stars": {
+   "title": "Basketball Stars",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/basketball_stars.html",
+   "files": [
+    "basketball_stars.html",
+    "thumbnail.png"
+   ]
+  },
+  "Battle Mage": {
+   "title": "Battle Mage",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/battlemage.html",
+   "files": [
+    "battlemage.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Bendy & The Ink Machine": {
+   "title": "Bendy & The Ink Machine",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/bendy/index.html",
+   "files": [
+    "Build/UnityLoader.js",
+    "TemplateData/UnityProgress.js",
+    "TemplateData/favicon.ico",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Big Ice Tower Tiny Square": {
+   "title": "Big Ice Tower Tiny Square",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/big_ice_tower_tiny_square/index.html",
+   "files": [
+    "2min.js",
+    "index.html",
+    "runtimee.js",
+    "thumbnail.png"
+   ]
+  },
+  "Big Tower Tiny Square 2": {
+   "title": "Big Tower Tiny Square 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/big_tower_tiny_square_2/index.html",
+   "files": [
+    "box2d.wasm.js",
+    "c3runtime.js",
+    "index.html",
+    "index.html",
+    "main.js",
+    "offlineclient.js",
+    "register-sw.js",
+    "style.css",
+    "supportcheck.js",
+    "thumbnail.png"
+   ]
+  },
+  "Bitlife": {
+   "title": "Bitlife",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/bitlife/index.html",
+   "files": [
+    "Build/BitLife.json",
+    "Build/UnityLoader.js",
+    "TemplateData/UnityProgress.js",
+    "TemplateData/progressEmpty.Dark.png",
+    "TemplateData/progressFull.Dark.png",
+    "index.html",
+    "logo.png",
+    "thumbnail.jpg"
+   ]
+  },
+  "Block Blast": {
+   "title": "Block Blast",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/block_blast.html",
+   "files": [
+    "block_blast.html",
+    "thumbnail.png"
+   ]
+  },
+  "Blood": {
+   "title": "Blood",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/blood/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "js/browserfs.min.js",
+    "js/dosbox-sync.js",
+    "js/dosbox-sync.mem",
+    "js/dosbox-x.js",
+    "js/es6-promise.js",
+    "js/font.zip",
+    "js/loader.js",
+    "softs/blood.zip",
+    "thumbnail.png"
+   ]
+  },
+  "Bloons Tower Defence 1": {
+   "title": "Bloons Tower Defence 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/bloons_td_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/bloons_td_1/btd.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Bloons Tower Defence 2": {
+   "title": "Bloons Tower Defence 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/bloons_td_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/bloons_td_2/btd2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.webp"
+   ]
+  },
+  "Bloons Tower Defence 3": {
+   "title": "Bloons Tower Defence 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/bloons_td_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/bloons_td_3/bloonstd3.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Bloons Tower Defence 4": {
+   "title": "Bloons Tower Defence 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/bloons_td_4/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/bloons_td_4/btd4.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Bloons Tower Defence 5": {
+   "title": "Bloons Tower Defence 5",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/bloons_td_5/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/bloons_td_5/content.swf",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/bloons_td_5/content.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/bloons_td_5/content.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/bloons_td_5/content.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Bloxorz": {
+   "title": "Bloxorz",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/bloxorz/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/bloxorz/Bloxorz.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Brotato": {
+   "title": "Brotato",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2@main/brotato/index.html",
+   "files": [
+    "Brotato.js",
+    "Brotato.wasm",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Buckshot Roulette": {
+   "title": "Buckshot Roulette",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/buckshot_roulette/index.html",
+   "files": [
+    "buckshot-roulette.apple-touch-icon.png",
+    "buckshot-roulette.icon.png",
+    "buckshot-roulette.js",
+    "buckshot-roulette.png",
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Burgertime": {
+   "title": "Burgertime",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/burgertime/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/burgertime/burgertime.nes",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Burrito Bison": {
+   "title": "Burrito Bison",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/burrito_bison/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/burrito_bison/Burrito_Bison.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Burrito Bison Revenge": {
+   "title": "Burrito Bison Revenge",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/burrito_bison_revenge/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/burrito_bison_revenge/Burrito_Bison_Revenge_FIX.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Cactus Mccoy": {
+   "title": "Cactus Mccoy",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/cactus_mccoy/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/cactus_mccoy/cactus_mccoy.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Cactus Mccoy 2": {
+   "title": "Cactus Mccoy 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/cactus_mccoy_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/cactus_mccoy_2/cactus_mccoy_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Candy Clicker": {
+   "title": "Candy Clicker",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/candy_clicker.html",
+   "files": [
+    "candy_clicker.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Candy Crush": {
+   "title": "Candy Crush",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/candy_crush.html",
+   "files": [
+    "candy_crush.html",
+    "thumbnail.png"
+   ]
+  },
+  "Candy Grabber": {
+   "title": "Candy Grabber",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/candy_grabber.html",
+   "files": [
+    "candy_grabber.html",
+    "thumbnail.png"
+   ]
+  },
+  "Captain Toad World": {
+   "title": "Captain Toad World",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp2/captain_toad_world/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Carving Jack-O-Lanterns": {
+   "title": "Carving Jack-O-Lanterns",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/carving_jack_o_lanterns.html",
+   "files": [
+    "carving_jack_o_lanterns.html",
+    "thumbnail.png"
+   ]
+  },
+  "Castlevania": {
+   "title": "Castlevania",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/castlevania/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Castlevania 2": {
+   "title": "Castlevania 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/castlevania_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Castlevania 3": {
+   "title": "Castlevania 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/castlevania_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Castlevania 64": {
+   "title": "Castlevania 64",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/castlevania_64/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/castlevania_64/castlevania_64.zip",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Castlevania_ Aria of Sorrow": {
+   "title": "Castlevania: Aria of Sorrow",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/castlevania_sorrow/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Castlevania_ Circle of the Moon": {
+   "title": "Castlevania: Circle of the Moon",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/castlevania_moon/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Castlevania_ Harmony of Dissonance": {
+   "title": "Castlevania: Harmony of Dissonance",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/castlevania_dissonance/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Castlevania_ Order of Ecclesia": {
+   "title": "Castlevania: Order of Ecclesia",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/castlevania_ecclesia/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Castlevania_ Portrait of Ruin": {
+   "title": "Castlevania: Portrait of Ruin",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/castlevania_ruin/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Cat Clicker!": {
+   "title": "Cat Clicker!",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/cat_clicker.html",
+   "files": [
+    "cat_clicker.html",
+    "thumbnail.png"
+   ]
+  },
+  "CaTRL": {
+   "title": "CaTRL",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp2/catrl/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Celeste Mario's Zap & Dash": {
+   "title": "Celeste Mario's Zap & Dash",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mario_zap_&_dash/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.7z",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Centipede": {
+   "title": "Centipede",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/centipede.html",
+   "files": [
+    "centipede.html",
+    "thumbnail.png"
+   ]
+  },
+  "Chess": {
+   "title": "Chess",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/chess.html",
+   "files": [
+    "chess.html",
+    "thumbnail.png"
+   ]
+  },
+  "Chessmo": {
+   "title": "Chessmo",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp@main/chessmo.html",
+   "files": [
+    "chessmo.html",
+    "thumbnail.svg"
+   ]
+  },
+  "ClockTower": {
+   "title": "ClockTower",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/clocktower/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Connect 4": {
+   "title": "Connect 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/connect_4.html",
+   "files": [
+    "connect_4.html",
+    "thumbnail.png"
+   ]
+  },
+  "Cookie Clicker": {
+   "title": "Cookie Clicker",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/cookie_clicker.html",
+   "files": [
+    "cookie_clicker.html",
+    "thumbnail.png"
+   ]
+  },
+  "Crazy Cattle 3D": {
+   "title": "Crazy Cattle 3D",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/crazy_cattle_3d/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Crossy Road": {
+   "title": "Crossy Road",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/crossy_road/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "scripts/bootstrap.min.js",
+    "scripts/extra.min.js",
+    "scripts/three.min.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "CUBES": {
+   "title": "CUBES",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/CUBES.html",
+   "files": [
+    "CUBES.html",
+    "thumbnail.png"
+   ]
+  },
+  "Cut The Rope": {
+   "title": "Cut The Rope",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/cut_the_rope.html",
+   "files": [
+    "cut_the_rope.html",
+    "thumbnail.png"
+   ]
+  },
+  "Cyber Switch": {
+   "title": "Cyber Switch",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/cyber_switch.html",
+   "files": [
+    "cyber_switch.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Deadtree Defender": {
+   "title": "Deadtree Defender",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/dead_tree_defender/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/dead_tree_defender/dead_tree_defender.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Defender": {
+   "title": "Defender",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/defender.html",
+   "files": [
+    "defender.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Deltarune": {
+   "title": "Deltarune",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gamemaker/deltarune/index.html",
+   "files": [
+    "audios/AUDIO_DRONE.ogg",
+    "audios/snd_menumove.mp3",
+    "audios/snd_select.mp3",
+    "icons/0.png",
+    "icons/1.png",
+    "icons/2.png",
+    "icons/3.png",
+    "icons/4.png",
+    "index.html",
+    "logo.png",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Deltarune A Different Snowgrave": {
+   "title": "Deltarune A Different Snowgrave",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/a_different_snowgrave.html",
+   "files": [
+    "a_different_snowgrave.html",
+    "thumbnail.png"
+   ]
+  },
+  "Deltatraveler": {
+   "title": "Deltatraveler",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity@main/deltatraveler/index.html",
+   "files": [
+    "Build/DELTAWEBGL.framework.js.unityweb",
+    "Build/DELTAWEBGL.loader.js",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Dig Dug": {
+   "title": "Dig Dug",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/dig_dug.html",
+   "files": [
+    "dig_dug.html",
+    "thumbnail.png"
+   ]
+  },
+  "Dino Game": {
+   "title": "Dino Game",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/dino_game.html",
+   "files": [
+    "dino_game.html",
+    "thumbnail.png"
+   ]
+  },
+  "Doki Doki Literature Club": {
+   "title": "Doki Doki Literature Club",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/doki_doki_literature_club/index.html",
+   "files": [
+    "game.zip",
+    "icons/icon-128x128.png",
+    "icons/icon-144x144.png",
+    "icons/icon-152x152.png",
+    "icons/icon-192x192.png",
+    "icons/icon-384x384.png",
+    "icons/icon-512x512.png",
+    "icons/icon-72x72.png",
+    "icons/icon-96x96.png",
+    "index.html",
+    "index.html",
+    "manifest.json",
+    "renpy-pre.js",
+    "renpy.js",
+    "service-worker.js",
+    "thumbnail.png",
+    "web-presplash.jpg"
+   ]
+  },
+  "Donkey Kong": {
+   "title": "Donkey Kong",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/donkey_kong.html",
+   "files": [
+    "donkey_kong.html",
+    "thumbnail.png"
+   ]
+  },
+  "Doodle God": {
+   "title": "Doodle God",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/doodle_god/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/doodle_god/doodle_god.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Doodle God 2": {
+   "title": "Doodle God 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/doodle_god_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/doodle_god_2/doodle_god_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Doom": {
+   "title": "Doom",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gzdoom@main/doom/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom/doom/settings.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Doom 2": {
+   "title": "Doom 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gzdoom@main/doom_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom/doom_2/settings.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Doom 64": {
+   "title": "Doom 64",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/doom_64/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Doom Lawn Of The Dead": {
+   "title": "Doom Lawn Of The Dead",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gzdoom@main/lawn_of_the_dead/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@94d5b4d/lawn_of_the_dead/settings.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@94d5b4d/script.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Doom RPG": {
+   "title": "Doom RPG",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gzdoom@main/doom_rpg/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom/script.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@0106251/doom_rpg/settings.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Dreamazon": {
+   "title": "Dreamazon",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/dreamazon.html",
+   "files": [
+    "dreamazon.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Drift Boss": {
+   "title": "Drift Boss",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript@main/drift_boss/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/javascript/drift_boss/api.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/javascript/drift_boss/cover-start.jpg",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/javascript/drift_boss/game.css",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/javascript/drift_boss/game.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/javascript/drift_boss/landscape.jpg",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Drift Hunters": {
+   "title": "Drift Hunters",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity2@main/drift_hunters/index.html",
+   "files": [
+    "UnityLoader2019.js",
+    "dh.json",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Drive Mad": {
+   "title": "Drive Mad",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/drive_mad/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "poki-sdk.js",
+    "thumbnail.png",
+    "webapp/cover.jpg",
+    "webapp/fancade.css",
+    "webapp/index.js",
+    "webapp/source_min.js"
+   ]
+  },
+  "Duck Hunt": {
+   "title": "Duck Hunt",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/duck_hunt.html",
+   "files": [
+    "duck_hunt.html",
+    "thumbnail.png"
+   ]
+  },
+  "Duck Life 1": {
+   "title": "Duck Life 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/duck_life_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/duck_life_1/duck-life.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Duck Life 2": {
+   "title": "Duck Life 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/duck_life_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/duck_life_2/duck-life-2.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Duck Life 3": {
+   "title": "Duck Life 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/duck_life_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/duck_life_3/duck-life-3.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Duck Life 4": {
+   "title": "Duck Life 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/duck_life_4/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/duck_life_4/ducklife4.swf",
+    "index.html",
+    "thumbnail.avif"
+   ]
+  },
+  "Duck Life Space": {
+   "title": "Duck Life Space",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity2@main/duck_life_6/index.html",
+   "files": [
+    "Build/UnityLoader.js",
+    "Build/WebGL5Hooda.json",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Duck Life Treasure Hunt": {
+   "title": "Duck Life Treasure Hunt",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/duck_life_treasure_hunt/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/duck_life_treasure_hunt/ducklife5.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Dune": {
+   "title": "Dune",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/dune.html",
+   "files": [
+    "dune.html",
+    "thumbnail.png"
+   ]
+  },
+  "Dungeon Dash": {
+   "title": "Dungeon Dash",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/dungeon_dash.html",
+   "files": [
+    "dungeon_dash.html",
+    "thumbnail.svg"
+   ]
+  },
+  "DUNGEONS": {
+   "title": "DUNGEONS",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/DUNGEONS.html",
+   "files": [
+    "DUNGEONS.html",
+    "thumbnail.png"
+   ]
+  },
+  "Dunk Shot": {
+   "title": "Dunk Shot",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/dunk_shot.html",
+   "files": [
+    "dunk_shot.html",
+    "thumbnail.png"
+   ]
+  },
+  "E.T": {
+   "title": "E.T",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/e_t/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/e_t/e_t.zip",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Earthbound": {
+   "title": "Earthbound",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/earthbound/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "EarthBound Beginnings": {
+   "title": "EarthBound Beginnings",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/earthbound_beginnings/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/earthbound_beginnings/EarthBound_Beginnings.zip",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Eat The Level": {
+   "title": "Eat The Level",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/eat_the_level.html",
+   "files": [
+    "eat_the_level.html",
+    "thumbnail.png"
+   ]
+  },
+  "Ecco The Dolphin": {
+   "title": "Ecco The Dolphin",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/ecco_the_dolphin/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/ecco_the_dolphin/ecco_the_dolphin.md",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Effing Machines": {
+   "title": "Effing Machines",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/effing_machines/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/effing_machines/content.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Effing Worms": {
+   "title": "Effing Worms",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/effing_worms/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/effing_worms/content.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Effing Zombies": {
+   "title": "Effing Zombies",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/effing_zombies/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/effing_zombies/content.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Egg dash": {
+   "title": "Egg dash",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/egg_dash.html",
+   "files": [
+    "egg_dash.html",
+    "thumbnail.png"
+   ]
+  },
+  "Elemental Ultra": {
+   "title": "Elemental Ultra",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/elementalultra.html",
+   "files": [
+    "elementalultra.html",
+    "thumbnail.png"
+   ]
+  },
+  "Escape Road": {
+   "title": "Escape Road",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/escape_road/index.html",
+   "files": [
+    "TemplateData/style.css",
+    "az_logo.png",
+    "car-icon.png",
+    "index.html",
+    "index.html",
+    "loading.png",
+    "rocket-loader.min.js",
+    "thumbnail.png"
+   ]
+  },
+  "Escape Road 2": {
+   "title": "Escape Road 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/escape_road_2.html",
+   "files": [
+    "escape_road_2.html",
+    "thumbnail.png"
+   ]
+  },
+  "Escape Road 3": {
+   "title": "Escape Road 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity2/escape_road_3/index.html",
+   "files": [
+    "Build/escape-road-3-v26041006.framework.js",
+    "Build/escape-road-3-v26041006.loader.js",
+    "game.css",
+    "index.html",
+    "loading.png",
+    "logo.png",
+    "thumbnail.png"
+   ]
+  },
+  "F Zero": {
+   "title": "F Zero",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/f_zero/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/f_zero/f_zero.sfc",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Fallout": {
+   "title": "Fallout",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/fallout.html",
+   "files": [
+    "fallout.html",
+    "thumbnail.png"
+   ]
+  },
+  "Famidash": {
+   "title": "Famidash",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/famidash/index.html",
+   "files": [
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/famidash/content.nes",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/famidash/content.nes",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/famidash/content.nes",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/famidash/content.nes",
+    "content.nes",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Fancy Pants Adventure": {
+   "title": "Fancy Pants Adventure",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/fancy_pants_adventure_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/fancy_pants_adventure_1/fancypworld1.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Feed and Grow Fish": {
+   "title": "Feed and Grow Fish",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity2/feed_and_grow_fish/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Fill": {
+   "title": "Fill",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/fill_1.html",
+   "files": [
+    "fill_1.html",
+    "thumbnail.png"
+   ]
+  },
+  "Fill 2": {
+   "title": "Fill 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/fill_2.html",
+   "files": [
+    "fill_2.html",
+    "thumbnail.png"
+   ]
+  },
+  "Fill Infinite": {
+   "title": "Fill Infinite",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/fill_infinite.html",
+   "files": [
+    "fill_infinite.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Fireboy And Water Girl 1": {
+   "title": "Fireboy And Water Girl 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/fire_boy_and_water_girl_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/fire_boy_and_water_girl_1/FireboyWatergirl-ForestTemple.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Fireboy And Water Girl 2": {
+   "title": "Fireboy And Water Girl 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/fire_boy_and_water_girl_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/fire_boy_and_water_girl_2/FireboyWatergirl-LightTemple.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Fish Run 2": {
+   "title": "Fish Run 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/fish_run_2.html",
+   "files": [
+    "fish_run_2.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Five Nights At Candy's 1": {
+   "title": "Five Nights At Candy's 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/c1/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Candy's 2": {
+   "title": "Five Nights At Candy's 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/c2/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's 1": {
+   "title": "Five Nights At Freddy's 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/f1/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's 2": {
+   "title": "Five Nights At Freddy's 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/f2/index.html",
+   "files": [
+    "favicon.ico",
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's 3": {
+   "title": "Five Nights At Freddy's 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/f3/index.html",
+   "files": [
+    "favicon.ico",
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's 4": {
+   "title": "Five Nights At Freddy's 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/f4/index.html",
+   "files": [
+    "favicon.ico",
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's 4 Halloween": {
+   "title": "Five Nights At Freddy's 4 Halloween",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/f4-halloween/index.html",
+   "files": [
+    "favicon.ico",
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's 5": {
+   "title": "Five Nights At Freddy's 5",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/f5/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's 6": {
+   "title": "Five Nights At Freddy's 6",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/f6/index.html",
+   "files": [
+    "favicon.ico",
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's Into The Pit": {
+   "title": "Five Nights At Freddy's Into The Pit",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/fnaf_into_the_pit/index.html",
+   "files": [
+    "Build/INTOTHEPIT.framework.js",
+    "Build/INTOTHEPIT.loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's Shooter": {
+   "title": "Five Nights At Freddy's Shooter",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/fnaf_shooter/index.html",
+   "files": [
+    "Build/FNaF_Shooter_GD.framework.js.unityweb",
+    "Build/FNaF_Shooter_GD.loader.js",
+    "Build/FNaF_Shooter_GD.wasm.unityweb",
+    "TemplateData/favicon.ico",
+    "TemplateData/style.css",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's Ultimate Custom night": {
+   "title": "Five Nights At Freddy's Ultimate Custom night",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/fucn/index.html",
+   "files": [
+    "favicon.ico",
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights At Freddy's World": {
+   "title": "Five Nights At Freddy's World",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/clickteam/fw/index.html",
+   "files": [
+    "favicon.ico",
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights at Frickbear\u2019s": {
+   "title": "Five Nights at Frickbear\u2019s",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/frickbears/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights at Frickbear\u2019s 2": {
+   "title": "Five Nights at Frickbear\u2019s 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/frickbears_2/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Five Nights at Frickbear\u2019s 3": {
+   "title": "Five Nights at Frickbear\u2019s 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/frickbears_3/index.html",
+   "files": [
+    "audio-worklet.js",
+    "index.html",
+    "index.html",
+    "jumpscreams.dat",
+    "runner.data",
+    "runner.js",
+    "runner.wasm",
+    "soundeffects.dat",
+    "thumbnail.png",
+    "voicelines_death.dat",
+    "voicelines_deathcoin.dat",
+    "voicelines_selection.dat"
+   ]
+  },
+  "Flappy Bird": {
+   "title": "Flappy Bird",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/flappybird.html",
+   "files": [
+    "flappybird.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Flappy Switch": {
+   "title": "Flappy Switch",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/flappy_switch.html",
+   "files": [
+    "flappy_switch.html",
+    "thumbnail.png"
+   ]
+  },
+  "Football Bros": {
+   "title": "Football Bros",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/football_bros/index.html",
+   "files": [
+    "FootballBros.js",
+    "assets/bbro.png",
+    "assets/fbro.png",
+    "assets/loading4.png",
+    "assets/sbro.png",
+    "assets/wbro.png",
+    "favicon.png",
+    "firebase-app.js",
+    "firebase-auth.js",
+    "firebase-firestore.js",
+    "index.html",
+    "index.html",
+    "manifest.json",
+    "tag.min.js",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin": {
+   "title": "Friday Night Funkin",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fridayfunk/index.html",
+   "files": [
+    "Funkin.js",
+    "assets/fonts/5by7.eot",
+    "assets/fonts/5by7.svg",
+    "assets/fonts/5by7.ttf",
+    "assets/fonts/5by7.woff",
+    "assets/fonts/5by7_b.eot",
+    "assets/fonts/5by7_b.svg",
+    "assets/fonts/5by7_b.ttf",
+    "assets/fonts/5by7_b.woff",
+    "assets/fonts/DS-DIGI.TTF",
+    "assets/fonts/DS-DIGIB.TTF",
+    "assets/fonts/DS-DIGII.TTF",
+    "assets/fonts/DS-DIGIT.TTF",
+    "assets/fonts/Inconsolata-Black.eot",
+    "assets/fonts/Inconsolata-Black.svg",
+    "assets/fonts/Inconsolata-Black.ttf",
+    "assets/fonts/Inconsolata-Black.woff",
+    "assets/fonts/Inconsolata-Bold.eot",
+    "assets/fonts/Inconsolata-Bold.svg",
+    "assets/fonts/Inconsolata-Bold.ttf",
+    "assets/fonts/Inconsolata-Bold.woff",
+    "assets/fonts/Inconsolata-ExtraBold.eot",
+    "assets/fonts/Inconsolata-ExtraBold.svg",
+    "assets/fonts/Inconsolata-ExtraBold.ttf",
+    "assets/fonts/Inconsolata-ExtraBold.woff",
+    "assets/fonts/Inconsolata-ExtraLight.eot",
+    "assets/fonts/Inconsolata-ExtraLight.svg",
+    "assets/fonts/Inconsolata-ExtraLight.ttf",
+    "assets/fonts/Inconsolata-ExtraLight.woff",
+    "assets/fonts/Inconsolata-Medium.eot",
+    "assets/fonts/Inconsolata-Medium.svg",
+    "assets/fonts/Inconsolata-Medium.ttf",
+    "assets/fonts/Inconsolata-Medium.woff",
+    "assets/fonts/Inconsolata-Regular.eot",
+    "assets/fonts/Inconsolata-Regular.svg",
+    "assets/fonts/Inconsolata-Regular.ttf",
+    "assets/fonts/Inconsolata-Regular.woff",
+    "assets/fonts/Inconsolata-SemiBold.eot",
+    "assets/fonts/Inconsolata-SemiBold.svg",
+    "assets/fonts/Inconsolata-SemiBold.ttf",
+    "assets/fonts/Inconsolata-SemiBold.woff",
+    "assets/fonts/Quantico-Bold.eot",
+    "assets/fonts/Quantico-Bold.svg",
+    "assets/fonts/Quantico-Bold.ttf",
+    "assets/fonts/Quantico-Bold.woff",
+    "assets/fonts/Quantico-BoldItalic.eot",
+    "assets/fonts/Quantico-BoldItalic.svg",
+    "assets/fonts/Quantico-BoldItalic.ttf",
+    "assets/fonts/Quantico-BoldItalic.woff",
+    "assets/fonts/Quantico-Italic.eot",
+    "assets/fonts/Quantico-Italic.svg",
+    "assets/fonts/Quantico-Italic.ttf",
+    "assets/fonts/Quantico-Italic.woff",
+    "assets/fonts/Quantico-Regular.eot",
+    "assets/fonts/Quantico-Regular.svg",
+    "assets/fonts/Quantico-Regular.ttf",
+    "assets/fonts/Quantico-Regular.woff",
+    "assets/fonts/pixel.eot",
+    "assets/fonts/pixel.otf",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.eot",
+    "assets/fonts/vcr.svg",
+    "assets/fonts/vcr.ttf",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "flixel/fonts/monsterrat.eot",
+    "flixel/fonts/monsterrat.svg",
+    "flixel/fonts/monsterrat.ttf",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.eot",
+    "flixel/fonts/nokiafc22.svg",
+    "flixel/fonts/nokiafc22.ttf",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin B-Sides": {
+   "title": "Friday Night Funkin B-Sides",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods/bside/index.html",
+   "files": [
+    "Funkin.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Hit Single Real": {
+   "title": "Friday Night Funkin Hit Single Real",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf/hits/index.html",
+   "files": [
+    "assets/fonts/911porscha.ttf",
+    "assets/fonts/Castellar.woff",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/sponge.woff",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "hitsingle2.js",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Indie Cross": {
+   "title": "Friday Night Funkin Indie Cross",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnfmods/indie/index.html",
+   "files": [
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "index.html",
+    "indie.js",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Mid-Fight Masses": {
+   "title": "Friday Night Funkin Mid-Fight Masses",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods/sarventes/index.html",
+   "files": [
+    "Funkin.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Neo": {
+   "title": "Friday Night Funkin Neo",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods/neo/index.html",
+   "files": [
+    "Funkin.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Soft": {
+   "title": "Friday Night Funkin Soft",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/die/soft/index.html",
+   "files": [
+    "assets/fonts/dk_inky_fingers.woff",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs Chara": {
+   "title": "Friday Night Funkin Vs Chara",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods@main/chara/index.html",
+   "files": [
+    "PsychEngine.js",
+    "assets/fonts/determination.woff",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs FNAF": {
+   "title": "Friday Night Funkin Vs FNAF",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods@main/fnaf1/index.html",
+   "files": [
+    "VsFNaf.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs FNAF 2": {
+   "title": "Friday Night Funkin Vs FNAF 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods@main/fnaf2/index.html",
+   "files": [
+    "PsychEngine.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs FNAF 3": {
+   "title": "Friday Night Funkin Vs FNAF 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods@main/fnaf-3/index.html",
+   "files": [
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "fnaf.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs Herobrine": {
+   "title": "Friday Night Funkin Vs Herobrine",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods@main/herobrine/index.html",
+   "files": [
+    "PsychEngine.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs. Hex": {
+   "title": "Friday Night Funkin Vs. Hex",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods/hex/index.html",
+   "files": [
+    "Funkin.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs. Miku": {
+   "title": "Friday Night Funkin Vs. Miku",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods/miku/index.html",
+   "files": [
+    "Funkin.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs. Sonic.Exe": {
+   "title": "Friday Night Funkin Vs. Sonic.Exe",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods/sonic-exe-4/index.html",
+   "files": [
+    "PsychEngine.js",
+    "assets/fonts/EurostileTBla.woff",
+    "assets/fonts/impact.woff",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/sonic-cd-menu-font.woff",
+    "assets/fonts/tahoma-bold.woff",
+    "assets/fonts/vcr.woff",
+    "favicon.png",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs. Tricky": {
+   "title": "Friday Night Funkin Vs. Tricky",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/die/tricky/index.html",
+   "files": [
+    "favicon.png",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs. Whitty": {
+   "title": "Friday Night Funkin Vs. Whitty",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods/whitty/index.html",
+   "files": [
+    "Funkin.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Friday Night Funkin Vs Zardy": {
+   "title": "Friday Night Funkin Vs Zardy",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/fnf-mods@main/zardy/index.html",
+   "files": [
+    "Funkin.js",
+    "assets/fonts/pixel.woff",
+    "assets/fonts/vcr.woff",
+    "flixel/fonts/monsterrat.woff",
+    "flixel/fonts/nokiafc22.woff",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Frogger": {
+   "title": "Frogger",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/frogger.html",
+   "files": [
+    "frogger.html",
+    "thumbnail.png"
+   ]
+  },
+  "Frozen Tower": {
+   "title": "Frozen Tower",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/frozen_tower.html",
+   "files": [
+    "frozen_tower.html",
+    "thumbnail.png"
+   ]
+  },
+  "Fruit Ninja": {
+   "title": "Fruit Ninja",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/fruitninja.html",
+   "files": [
+    "fruitninja.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Galaga": {
+   "title": "Galaga",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/galaga.html",
+   "files": [
+    "galaga.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Geometry Dash": {
+   "title": "Geometry Dash",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/geometry_dash.html",
+   "files": [
+    "geometry_dash.html",
+    "thumbnail.png"
+   ]
+  },
+  "Geometry Wave": {
+   "title": "Geometry Wave",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/geometry_wave.html",
+   "files": [
+    "geometry_wave.html",
+    "thumbnail.png"
+   ]
+  },
+  "Getaway Shootout": {
+   "title": "Getaway Shootout",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/getaway_shootout/index.html",
+   "files": [
+    "Build/GetawayShootoutTwoPlayerGamesOrg.json",
+    "Build/UnityLoader.js",
+    "TemplateData/UnityProgress.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Getting Over It": {
+   "title": "Getting Over It",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/getting_over_it.html",
+   "files": [
+    "getting_over_it.html",
+    "thumbnail.png"
+   ]
+  },
+  "Ghost": {
+   "title": "Ghost",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/ghost.html",
+   "files": [
+    "ghost.html",
+    "thumbnail.png"
+   ]
+  },
+  "Ghosts And Goblins": {
+   "title": "Ghosts And Goblins",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/ghosts_and_goblins/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/ghosts_and_goblins/Ghosts_and_Goblins.nes",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Ghouls And Ghosts": {
+   "title": "Ghouls And Ghosts",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/ghouls_and_ghosts/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/ghouls_and_ghosts/Super_Ghouls_N_Ghosts.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Gladihoppers": {
+   "title": "Gladihoppers",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity@main/gladihoppers/index.html",
+   "files": [
+    "Build/Gladihoppers.json",
+    "index.html",
+    "patch/js/poki-master-loader.js",
+    "patch/png/null.png",
+    "thumbnail.png"
+   ]
+  },
+  "GoldenEye 007": {
+   "title": "GoldenEye 007",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/golden_eye/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/golden_eye/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/golden_eye/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/golden_eye/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/golden_eye/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/golden_eye/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Golf Islands": {
+   "title": "Golf Islands",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/golf_islands.html",
+   "files": [
+    "golf_islands.html",
+    "thumbnail.png"
+   ]
+  },
+  "Gotta Go Fax": {
+   "title": "Gotta Go Fax",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/gotta_go_fax.html",
+   "files": [
+    "gotta_go_fax.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Granny": {
+   "title": "Granny",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/granny_1/index.html",
+   "files": [
+    "Build/Granny.framework.js",
+    "Build/Granny.loader.js",
+    "TemplateData/style.css",
+    "index.html",
+    "sdk.js",
+    "thumbnail.png"
+   ]
+  },
+  "Granny 3": {
+   "title": "Granny 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/granny_3/index.html",
+   "files": [
+    "Build/v1.framework.js.unityweb",
+    "Build/v1.loader.js",
+    "TemplateData/favicon.ico",
+    "TemplateData/style.css",
+    "index.html",
+    "index.html",
+    "logo.png",
+    "manifest.json",
+    "thumbnail.png"
+   ]
+  },
+  "Grapple pig": {
+   "title": "Grapple pig",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/grapple_pig.html",
+   "files": [
+    "grapple_pig.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Gun Mayhem Redux": {
+   "title": "Gun Mayhem Redux",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/gun_mayhem_redux/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/gun_mayhem_redux/content.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/gun_mayhem_redux/content.swf",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/gun_mayhem_redux/content.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/gun_mayhem_redux/content.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/gun_mayhem_redux/content.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Gyruss": {
+   "title": "Gyruss",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/gyruss.html",
+   "files": [
+    "gyruss.html",
+    "thumbnail.png"
+   ]
+  },
+  "Half Life": {
+   "title": "Half Life",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/half_life/index.html",
+   "files": [
+    "browserfs.min.js",
+    "favicon.ico",
+    "index.html",
+    "mods.js",
+    "thumbnail.png",
+    "xash.html.mem",
+    "xash.js"
+   ]
+  },
+  "Halloween Clicker": {
+   "title": "Halloween Clicker",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/halloween_clicker.html",
+   "files": [
+    "halloween_clicker.html",
+    "thumbnail.png"
+   ]
+  },
+  "Happy Wheels": {
+   "title": "Happy Wheels",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/happy_wheels/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "HEX": {
+   "title": "HEX",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/hex.html",
+   "files": [
+    "hex.html",
+    "thumbnail.png"
+   ]
+  },
+  "Hollow Knight": {
+   "title": "Hollow Knight",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/hollow_knight/index.html",
+   "files": [
+    "Build/hktruffled.framework.js",
+    "Build/hktruffled.loader.js",
+    "index.html",
+    "index.html",
+    "sharedassets127.resource",
+    "sharedassets400.resource",
+    "sharedassets410.resource",
+    "sharedassets8.resource",
+    "thumbnail.png"
+   ]
+  },
+  "Hop Frenzy": {
+   "title": "Hop Frenzy",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/hop_frenzy.html",
+   "files": [
+    "hop_frenzy.html",
+    "thumbnail.png"
+   ]
+  },
+  "House Of Hazards": {
+   "title": "House Of Hazards",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/house_of_hazards/index.html",
+   "files": [
+    "TemplateData/UnityProgress.js",
+    "TemplateData/style.css",
+    "UnityLoader.js",
+    "build.json",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "I WANNA BE THE GUY": {
+   "title": "I WANNA BE THE GUY",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/i_wanna_be_the_guy/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "main.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Idle Breakout": {
+   "title": "Idle Breakout",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/idle_breakout/index.html",
+   "files": [
+    "ibo.js",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Idle Dice": {
+   "title": "Idle Dice",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/idle_dice/index.html",
+   "files": [
+    "assets/fonts/roboto-medium-webfont.woff",
+    "assets/fonts/roboto-medium-webfont.woff2",
+    "assets/fonts/roboto-thin-webfont.woff",
+    "assets/fonts/roboto-thin-webfont.woff2",
+    "assets/fonts/robotomono-thin-webfont.woff",
+    "assets/fonts/robotomono-thin-webfont.woff2",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Impossible Ball Game 3": {
+   "title": "Impossible Ball Game 3",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/Impossible_Ball_Game_3.html",
+   "files": [
+    "Impossible_Ball_Game_3.html",
+    "thumbnail.png"
+   ]
+  },
+  "Iron Lung": {
+   "title": "Iron Lung",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/iron_lung/index.html",
+   "files": [
+    "Build/built.framework.js",
+    "Build/built.loader.js",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Iron Snout": {
+   "title": "Iron Snout",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/iron_snout/index.html",
+   "files": [
+    "html5game/IronSnout.js",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Jacksmith": {
+   "title": "Jacksmith",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/jack_smith/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/jack_smith/jack_smith.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Jelly Mario": {
+   "title": "Jelly Mario",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/jelly_mario/index.html",
+   "files": [
+    "build/man.js",
+    "index.html",
+    "lib/dat.gui.min.js",
+    "lib/stats.min.js",
+    "lib/three.min.js",
+    "thumbnail.png"
+   ]
+  },
+  "Jetpack Fox": {
+   "title": "Jetpack Fox",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/jetpack_fox.html",
+   "files": [
+    "jetpack_fox.html",
+    "thumbnail.png"
+   ]
+  },
+  "Jetpack Joyride": {
+   "title": "Jetpack Joyride",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/jetpack_joyride/index.html",
+   "files": [
+    "css/styles.css",
+    "engine/phaser-3.24.1.min.js",
+    "game3.js",
+    "h5Sdk.js",
+    "img/HB_ic_rotateScreen.png",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Joust": {
+   "title": "Joust",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/joust.html",
+   "files": [
+    "joust.html",
+    "thumbnail.png"
+   ]
+  },
+  "Kaboom Cavern": {
+   "title": "Kaboom Cavern",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/kaboom_cavern.html",
+   "files": [
+    "kaboom_cavern.html",
+    "thumbnail.png"
+   ]
+  },
+  "Karate Bros": {
+   "title": "Karate Bros",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/karate_bros/index.html",
+   "files": [
+    "KarateBros.js",
+    "assets/bbro.png",
+    "assets/fbro.png",
+    "assets/loading4.png",
+    "assets/sbro.png",
+    "assets/wbro.png",
+    "favicon.png",
+    "index.html",
+    "index.html",
+    "manifest.json",
+    "thumbnail.png"
+   ]
+  },
+  "Kirby 64": {
+   "title": "Kirby 64",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/kirby_64/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/kirby_64/kirby_64.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Kirby and The Amazing Mirror": {
+   "title": "Kirby and The Amazing Mirror",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/kirby_mirror/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Kirby\u2019s Dream Land": {
+   "title": "Kirby\u2019s Dream Land",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/kirby_dream_land/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.gb",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Kirby\u2019s Dream Land 3": {
+   "title": "Kirby\u2019s Dream Land 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/kirby_dream_land_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Kirby Squeak Squad": {
+   "title": "Kirby Squeak Squad",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/kirby_squad/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Kirby Super Star Ultra": {
+   "title": "Kirby Super Star Ultra",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/kirby_star_ultra/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Kitten Cannon": {
+   "title": "Kitten Cannon",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/kitten_cannon/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Laser Connect!": {
+   "title": "Laser Connect!",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/laser_connect.html",
+   "files": [
+    "laser_connect.html",
+    "thumbnail.png"
+   ]
+  },
+  "Learn To fly": {
+   "title": "Learn To fly",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly/learn-to-fly.swf",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly/learn-to-fly.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/learn_to_fly/learn-to-fly.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly/learn-to-fly.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "learn-to-fly.swf",
+    "thumbnail.png"
+   ]
+  },
+  "Learn To fly 3": {
+   "title": "Learn To fly 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly/learn-to-fly.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly/learn-to-fly.swf",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly/learn-to-fly.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/learn_to_fly/learn-to-fly.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly/learn-to-fly.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Learn To fly Idle": {
+   "title": "Learn To fly Idle",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly_idle/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly_idle/game.swf",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly_idle/game.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/learn_to_fly_idle/game.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/learn_to_fly_idle/game.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "game.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "LEGO Star Wars": {
+   "title": "LEGO Star Wars",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/lego_star_wars/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Lemon Maze": {
+   "title": "Lemon Maze",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/lemon_maze.html",
+   "files": [
+    "lemon_maze.html",
+    "thumbnail.png"
+   ]
+  },
+  "Lemonoids": {
+   "title": "Lemonoids",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/lemonoids.html",
+   "files": [
+    "lemonoids.html",
+    "thumbnail.png"
+   ]
+  },
+  "Lemonoids Halloween": {
+   "title": "Lemonoids Halloween",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/lemonoids_halloween.html",
+   "files": [
+    "lemonoids_halloween.html",
+    "thumbnail.png"
+   ]
+  },
+  "Line Rider": {
+   "title": "Line Rider",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/line_rider/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "LSD Dream Emulator": {
+   "title": "LSD Dream Emulator",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/lsd_dream_emulator/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Magic Cat Academy": {
+   "title": "Magic Cat Academy",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/magic_cat_academy.html",
+   "files": [
+    "magic_cat_academy.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mallard Madness": {
+   "title": "Mallard Madness",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/mallard_madness_1.html",
+   "files": [
+    "mallard_madness_1.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mallard Madness 2": {
+   "title": "Mallard Madness 2",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/mallard_madness_2.html",
+   "files": [
+    "mallard_madness_2.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mario & Luigi Bowser's Inside Story": {
+   "title": "Mario & Luigi Bowser's Inside Story",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mario_&_luigi_inside/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mario & Luigi Partners In Time": {
+   "title": "Mario & Luigi Partners In Time",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mario_&_luigi_time/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mario & Luigi Superstar Saga": {
+   "title": "Mario & Luigi Superstar Saga",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mario_&_luigi_saga/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mario Bros Classic": {
+   "title": "Mario Bros Classic",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/mario_bros.html",
+   "files": [
+    "mario_bros.html",
+    "thumbnail.webp"
+   ]
+  },
+  "Mario Combat": {
+   "title": "Mario Combat",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/mario_combat/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mario Kart 64": {
+   "title": "Mario Kart 64",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mario_kart_64/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "mario_kart_64.zip",
+    "thumbnail.png"
+   ]
+  },
+  "Mario Kart DS": {
+   "title": "Mario Kart DS",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mario_kart_ds/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "mario_kart_ds.zip",
+    "thumbnail.png"
+   ]
+  },
+  "Mario Kart Super Circuit": {
+   "title": "Mario Kart Super Circuit",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/mario_kart_super_circuit/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mario_kart_super_circuit/mario_kart_super_circuit.gba",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man": {
+   "title": "Mega Man",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mega_man/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man 2": {
+   "title": "Mega Man 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mega_man_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man 3": {
+   "title": "Mega Man 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mega_man_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man 4": {
+   "title": "Mega Man 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mega_man_4/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man 5": {
+   "title": "Mega Man 5",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mega_man_5/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man 6": {
+   "title": "Mega Man 6",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mega_man_6/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man 7": {
+   "title": "Mega Man 7",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/mega_man_7/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/mega_man_7/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/mega_man_7/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/mega_man_7/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/mega_man_7/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/mega_man_7/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man 8": {
+   "title": "Mega Man 8",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/mega_man_8/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man X": {
+   "title": "Mega Man X",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mega_man_x/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "mega_man_x.zip",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man X 2": {
+   "title": "Mega Man X 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mega_man_x_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "mega_man_x_2.zip",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man X 3": {
+   "title": "Mega Man X 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mega_man_x_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "mega_man_x_3.zip",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man X 4": {
+   "title": "Mega Man X 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/mega_man_x_4/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man X 5": {
+   "title": "Mega Man X 5",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/mega_man_x_5/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mega Man X 6": {
+   "title": "Mega Man X 6",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/mega_man_x_6/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Melon Sandbox": {
+   "title": "Melon Sandbox",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity2/melon_sandbox/index.html",
+   "files": [
+    "frame.js",
+    "index.html",
+    "index.html",
+    "main/Builds.loader.js",
+    "thumbnail.png"
+   ]
+  },
+  "Metal Sonic Hyperdrive": {
+   "title": "Metal Sonic Hyperdrive",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/metal_sonic_hyperdrive/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/metal_sonic_hyperdrive/metal_sonic_hyperdrive.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Metroid Fusion": {
+   "title": "Metroid Fusion",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/metroid_fusion/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/metroid_fusion/metroid_fusion.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Metroid Prime Hunters": {
+   "title": "Metroid Prime Hunters",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/metroid_prime_hunters/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Metroid Zero Mission": {
+   "title": "Metroid Zero Mission",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/metroid_zero_mission/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/metroid_zero_mission/metroid_zero_mission.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Minecraft 1.8": {
+   "title": "Minecraft 1.8",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/minecraft_1.8/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Minecraft 1.12": {
+   "title": "Minecraft 1.12",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/minecraft_1.12/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Minecraft 26.2": {
+   "title": "Minecraft 26.2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/minecraft_26/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Miner Cat 1": {
+   "title": "Miner Cat 1",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/miner_cat.html",
+   "files": [
+    "miner_cat.html",
+    "thumbnail.png"
+   ]
+  },
+  "Miner Cat 2": {
+   "title": "Miner Cat 2",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/miner_cat_2.html",
+   "files": [
+    "miner_cat_2.html",
+    "thumbnail.png"
+   ]
+  },
+  "Miner Cat 3": {
+   "title": "Miner Cat 3",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/miner_cat_3.html",
+   "files": [
+    "miner_cat_3.html",
+    "thumbnail.png"
+   ]
+  },
+  "Miner Cat 4": {
+   "title": "Miner Cat 4",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/miner_cat_4.html",
+   "files": [
+    "miner_cat_4.html",
+    "thumbnail.png"
+   ]
+  },
+  "Minesweeper": {
+   "title": "Minesweeper",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/google_minesweeper.html",
+   "files": [
+    "google_minesweeper.html",
+    "thumbnail.png"
+   ]
+  },
+  "Minesweeper Plus": {
+   "title": "Minesweeper Plus",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/minesweeper_plus/index.html",
+   "files": [
+    "MinesweeperPlus.apple-touch-icon.png",
+    "MinesweeperPlus.icon.png",
+    "MinesweeperPlus.js",
+    "MinesweeperPlus.png",
+    "index.html",
+    "index.html",
+    "merge.js",
+    "thumbnail.png"
+   ]
+  },
+  "MIRR\u0424\u042f\u042fIM": {
+   "title": "MIRR\u0424\u042f\u042fIM",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/MIRR\u0424\u042f\u042fIM.html",
+   "files": [
+    "MIRR\u0424\u042f\u042fIM.html",
+    "thumbnail.png"
+   ]
+  },
+  "Monkey Mart": {
+   "title": "Monkey Mart",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/monkey_mart/index.html",
+   "files": [
+    "GameAnalytics.js",
+    "MonkeyMart.wasm",
+    "bg_loading.png",
+    "dmloader.js",
+    "index.html",
+    "load_bar_bg.png",
+    "load_bar_fg.png",
+    "patch/js/poki-sdk.js",
+    "thumbnail.png"
+   ]
+  },
+  "Monster Miners": {
+   "title": "Monster Miners",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/monster_miners.html",
+   "files": [
+    "monster_miners.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Mortal Kombat": {
+   "title": "Mortal Kombat",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/mortal_kombat/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/mortal_kombat/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mortal Kombat 2": {
+   "title": "Mortal Kombat 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/mortal_kombat_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat_2/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat_2/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat_2/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat_2/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mortal Kombat 3": {
+   "title": "Mortal Kombat 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/mortal_kombat_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat_3/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat_3/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat_3/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/mortal_kombat_3/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@729c928/mortal_kombat_3/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mortal Kombat 4": {
+   "title": "Mortal Kombat 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/mortal_kombat_4/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/mortal_kombat_4/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/mortal_kombat_4/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/mortal_kombat_4/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/mortal_kombat_4/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/mortal_kombat_4/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mother 3": {
+   "title": "Mother 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/mother_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Mother Load": {
+   "title": "Mother Load",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/mother_load/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/mother_load/mother_load.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "MotoX3m": {
+   "title": "MotoX3m",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/motox3m.html",
+   "files": [
+    "motox3m.html",
+    "thumbnail.png"
+   ]
+  },
+  "MotoX3m Spooky Land": {
+   "title": "MotoX3m Spooky Land",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/motox3m_spooky.html",
+   "files": [
+    "motox3m_spooky.html",
+    "thumbnail.png"
+   ]
+  },
+  "Ms Pac Man": {
+   "title": "Ms Pac Man",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/ms_pacman.html",
+   "files": [
+    "ms_pacman.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Murder": {
+   "title": "Murder",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/murder/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "MyHouse": {
+   "title": "MyHouse",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gzdoom@main/myhouse/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@08dc044/script.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@6b5cf21/myhouse/settings.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "MyHouse X Lawn Of The Dead": {
+   "title": "MyHouse X Lawn Of The Dead",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gzdoom@main/lawn_of_the_dead_myhouse/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@94d5b4d/lawn_of_the_dead_myhouse/settings.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@94d5b4d/script.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "N-gon": {
+   "title": "N-gon",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/n_gon/index.html",
+   "files": [
+    "favicon.ico",
+    "index.html",
+    "js/bullet.js",
+    "js/engine.js",
+    "js/index.js",
+    "js/level.js",
+    "js/lore.js",
+    "js/mob.js",
+    "js/player.js",
+    "js/powerup.js",
+    "js/simulation.js",
+    "js/spawn.js",
+    "js/tech.js",
+    "lib/decomp.min.js",
+    "lib/matter.min.js",
+    "lib/randomColor.min.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Nectarland": {
+   "title": "Nectarland",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/nectarland.html",
+   "files": [
+    "nectarland.html",
+    "thumbnail.png"
+   ]
+  },
+  "Neon Foosball": {
+   "title": "Neon Foosball",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp2/neon_foosball.html",
+   "files": [
+    "neon_foosball.html",
+    "thumbnail.png"
+   ]
+  },
+  "Neon switch": {
+   "title": "Neon switch",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/neon_switch_1.html",
+   "files": [
+    "neon_switch_1.html",
+    "thumbnail.png"
+   ]
+  },
+  "Neon switch 2": {
+   "title": "Neon switch 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/neon_switch_2.html",
+   "files": [
+    "neon_switch_2.html",
+    "thumbnail.svg"
+   ]
+  },
+  "New Super Mario Bros DS": {
+   "title": "New Super Mario Bros DS",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/new_super_mario/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/new_super_mario/new_super_mario.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Newer Super Mario Bros DS": {
+   "title": "Newer Super Mario Bros DS",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/newer_super_mario/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Nova craft": {
+   "title": "Nova craft",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/nova_craft/index.html",
+   "files": [
+    "assets/index-CQ1EvTOM.js",
+    "assets/index-CzvCHSYC.css",
+    "index.html",
+    "index.html",
+    "thumbnail.png",
+    "vite.svg"
+   ]
+  },
+  "Octa": {
+   "title": "Octa",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/octa.html",
+   "files": [
+    "octa.html",
+    "thumbnail.png"
+   ]
+  },
+  "Odd Bot Out": {
+   "title": "Odd Bot Out",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/odd_bot_out/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "poki-sdk.js",
+    "thumbnail.png",
+    "webapp/index.js",
+    "webapp/obo.css",
+    "webapp/source_min.js",
+    "webapp/splash.png"
+   ]
+  },
+  "Oh, Flip!": {
+   "title": "Oh, Flip!",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/oh_flip/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "One Night As Freddy": {
+   "title": "One Night As Freddy",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/one_night_as_freddy/index.html",
+   "files": [
+    "Build/WebBuild_v3.framework.js",
+    "Build/WebBuild_v3.loader.js",
+    "Build/WebBuild_v3.wasm.gz",
+    "TemplateData/favicon.ico",
+    "TemplateData/style.css",
+    "_external/raw.githubusercontent.com/arcade-v/unity/refs/heads/main/one_night_as_freddy/Build/WebBuild_v3.data.gz",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Operius": {
+   "title": "Operius",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/operius.html",
+   "files": [
+    "operius.html",
+    "thumbnail.png"
+   ]
+  },
+  "Ore Miner": {
+   "title": "Ore Miner",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/ore_miner.html",
+   "files": [
+    "ore_miner.html",
+    "thumbnail.png"
+   ]
+  },
+  "Ovo": {
+   "title": "Ovo",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/ovo/index.html",
+   "files": [
+    "341.js",
+    "ani.css",
+    "c2r.js",
+    "editor.js",
+    "fonts.css",
+    "gamean.js",
+    "grit.css",
+    "grit.js",
+    "howl.js",
+    "html.js",
+    "index.html",
+    "lzma.js",
+    "ovoff.js",
+    "styleo.css",
+    "thumbnail.png",
+    "trans.css",
+    "tween.js",
+    "unloxck.js",
+    "websdk.js"
+   ]
+  },
+  "Pac Man": {
+   "title": "Pac Man",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/pacman.html",
+   "files": [
+    "pacman.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pac Xon": {
+   "title": "Pac Xon",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/pac_xon/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/pac_xon/pac_xon.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Papa\u2019s Bakeria": {
+   "title": "Papa\u2019s Bakeria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_bakeria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_bakeria/papasbakeria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Papa\u2019s Burgeria": {
+   "title": "Papa\u2019s Burgeria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_burgeria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_burgeria/papasburgeria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jfif"
+   ]
+  },
+  "Papa\u2019s Cheeseria": {
+   "title": "Papa\u2019s Cheeseria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_cheeseria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_cheeseria/papascheeseria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Papa\u2019s Cupcakeria": {
+   "title": "Papa\u2019s Cupcakeria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_cupcakeria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_cupcakeria/papascupcakeria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Papa\u2019s Donuteria": {
+   "title": "Papa\u2019s Donuteria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_donuteria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_donuteria/papasdonuteria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Papa\u2019s Freezeria": {
+   "title": "Papa\u2019s Freezeria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_freezeria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_freezeria/papasfreezeria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Papa\u2019s Hotdogeria": {
+   "title": "Papa\u2019s Hotdogeria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_hotdogeria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_hotdogeria/papashotdoggeria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Papa\u2019s Pancakeria": {
+   "title": "Papa\u2019s Pancakeria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_pancakeria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_pancakeria/papaspancakeria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Papa\u2019s Pastaria": {
+   "title": "Papa\u2019s Pastaria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_pastaria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_pastaria/papaspastaria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Papa\u2019s Pizzeria": {
+   "title": "Papa\u2019s Pizzeria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_pizzeria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_pizzeria/papas_pizzeria_v2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Papa\u2019s Scooperia": {
+   "title": "Papa\u2019s Scooperia",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_scooperia/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_scooperia/papasscooperia.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Papa\u2019s Taco Mia": {
+   "title": "Papa\u2019s Taco Mia",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_taco_mia/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_taco_mia/papastacomia.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Papa\u2019s Wingeria": {
+   "title": "Papa\u2019s Wingeria",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/papa\\'s_wingeria/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/papa's_wingeria/papaswingeria.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Paper.io": {
+   "title": "Paper.io",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/paper_io/index.html",
+   "files": [
+    "css/fonts.css",
+    "css/style3.css",
+    "images/icon192.png",
+    "index.html",
+    "index.html",
+    "js/app-new-gm.js",
+    "js/loader.js",
+    "js/sdk.js",
+    "js/window.js",
+    "manifest.json",
+    "thumbnail.png"
+   ]
+  },
+  "Paper Minecraft": {
+   "title": "Paper Minecraft",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/paper_minecraft.html",
+   "files": [
+    "paper_minecraft.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Perfect Dark": {
+   "title": "Perfect Dark",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/perfect_dark/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Phantom Dash": {
+   "title": "Phantom Dash",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/phantom_dash.html",
+   "files": [
+    "phantom_dash.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pig dash": {
+   "title": "Pig dash",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/pig_dash.html",
+   "files": [
+    "pig_dash.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pineapple Pursuit": {
+   "title": "Pineapple Pursuit",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/pineapple_pursuit.html",
+   "files": [
+    "pineapple_pursuit.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pineapple Pursuit 2": {
+   "title": "Pineapple Pursuit 2",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/pineapple_pursuit_2.html",
+   "files": [
+    "pineapple_pursuit_2.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pixel Shooter": {
+   "title": "Pixel Shooter",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/pixel_shooter.html",
+   "files": [
+    "pixel_shooter.html",
+    "thumbnail.png"
+   ]
+  },
+  "Plague Inc": {
+   "title": "Plague Inc",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity2/plague_inc/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Plants Vs Zombies": {
+   "title": "Plants Vs Zombies",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2@main/pvz/index.html",
+   "files": [
+    "index.html",
+    "pvz-portable.js",
+    "thumbnail.webp"
+   ]
+  },
+  "Plants Vs Zombies DS": {
+   "title": "Plants Vs Zombies DS",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/pvz_ds/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Black": {
+   "title": "Pokemon Black",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/pokemon/black/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Black 2": {
+   "title": "Pokemon Black 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@latest/pokemon/black_2/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.webp"
+   ]
+  },
+  "Pokemon Diamond": {
+   "title": "Pokemon Diamond",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/pokemon/diamond/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs/refs/heads/main/pokemon/diamond/pokemon-diamond.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Emerald": {
+   "title": "Pokemon Emerald",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/pokemon/emerald/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/pokemon/emerald/pokemonemerald.gba",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Fire Red": {
+   "title": "Pokemon Fire Red",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/pokemon/fire_red/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/pokemon/fire_red/fire_red.gba",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Heart Gold": {
+   "title": "Pokemon Heart Gold",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/pokemon/heart_gold/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Leaf Green": {
+   "title": "Pokemon Leaf Green",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/pokemon/leaf_green/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Pearl": {
+   "title": "Pokemon Pearl",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/pokemon/pearl/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Platinum": {
+   "title": "Pokemon Platinum",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/pokemon/platinum/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs/refs/heads/main/pokemon/platinum/pokemon-platinum.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Ruby": {
+   "title": "Pokemon Ruby",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/pokemon/ruby/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Sapphire": {
+   "title": "Pokemon Sapphire",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/pokemon/sapphire/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Soul Silver": {
+   "title": "Pokemon Soul Silver",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/pokemon/soul_silver/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs/refs/heads/main/pokemon/soul_silver/pokemon-soulsilver.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon Unbound": {
+   "title": "Pokemon Unbound",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/pokemon/unbound/index.html",
+   "files": [
+    "index.html",
+    "pokemonunbound.zip",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon White": {
+   "title": "Pokemon White",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/pokemon/white/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pokemon White 2": {
+   "title": "Pokemon White 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/pokemon/white_2/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Polar Panic": {
+   "title": "Polar Panic",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/polar_panic.html",
+   "files": [
+    "polar_panic.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Polytrack": {
+   "title": "Polytrack",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/poly_track/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "main.bundle.js",
+    "manifest.json",
+    "simulation_worker.bundle.js",
+    "thumbnail.png"
+   ]
+  },
+  "Pong": {
+   "title": "Pong",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/pong.html",
+   "files": [
+    "pong.html",
+    "thumbnail.png"
+   ]
+  },
+  "Poor Bunny": {
+   "title": "Poor Bunny",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/poor_bunny/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Pop The Lock": {
+   "title": "Pop The Lock",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/pop-the-lock.html",
+   "files": [
+    "pop-the-lock.html",
+    "thumbnail.png"
+   ]
+  },
+  "Portal Flash": {
+   "title": "Portal Flash",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/portal_flash/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Q_bert": {
+   "title": "Q*bert",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/qbert.html",
+   "files": [
+    "qbert.html",
+    "thumbnail.png"
+   ]
+  },
+  "Raft Wars": {
+   "title": "Raft Wars",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/raft_wars/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/raft_wars/raftwars.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Raft Wars 2": {
+   "title": "Raft Wars 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/raft_wars_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/raft_wars_2/raftwars2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Red Ball 4": {
+   "title": "Red Ball 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/red_ball_4/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/red_ball_4/red_ball_4.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "REKKR": {
+   "title": "REKKR",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gzdoom/rekkr/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@08dc044/script.js",
+    "index.html",
+    "settings.js",
+    "thumbnail.png"
+   ]
+  },
+  "Resident Evil": {
+   "title": "Resident Evil",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/resident_evil/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Resident Evil 3": {
+   "title": "Resident Evil 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/resident_evil_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Retro Bowl": {
+   "title": "Retro Bowl",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/retro_bowl/index.html",
+   "files": [
+    "html5game/RetroBowl.js",
+    "html5game/splash.png",
+    "index.html",
+    "index.html",
+    "retrobowl.ico",
+    "thumbnail.png"
+   ]
+  },
+  "Retro Bowl College": {
+   "title": "Retro Bowl College",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/retro_bowl_college/index.html",
+   "files": [
+    "html5game/RetroBowl.js",
+    "html5game/splash.png",
+    "index.html",
+    "index.html",
+    "poki-sdk.js",
+    "thumbnail.png"
+   ]
+  },
+  "Riddle School": {
+   "title": "Riddle School",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/riddle_school_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/riddle_school_1/riddle-school.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Riddle School 2": {
+   "title": "Riddle School 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/riddle_school_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/riddle_school_2/riddle-school-2.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Riddle School 3": {
+   "title": "Riddle School 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/riddle_school_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/riddle_school_3/riddle-school-3.swf",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Riddle School 4": {
+   "title": "Riddle School 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/riddle_school_4/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/riddle_school_4/riddle-school-4.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Riddle School 5": {
+   "title": "Riddle School 5",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/riddle_school_5/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/riddle_school_5/riddle-school-5.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Riddle Transfer 1": {
+   "title": "Riddle Transfer 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/riddle_transfer_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/riddle_transfer_1/riddle-transfer.swf",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Riddle Transfer 2": {
+   "title": "Riddle Transfer 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/riddle_transfer_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/riddle_transfer_2/riddle-transfer-2.swf",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Ring Peril": {
+   "title": "Ring Peril",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/ring_peril.html",
+   "files": [
+    "ring_peril.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Road of the Dead": {
+   "title": "Road of the Dead",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/road_of_the_dead/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Rooftop Snipers": {
+   "title": "Rooftop Snipers",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/rooftop_snipers/index.html",
+   "files": [
+    "Build/rooftop-snipers.json",
+    "TemplateData/UnityLoader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/unity/tunnel_rush/UnityProgress.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/unity/tunnel_rush/style.css",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Rotational": {
+   "title": "Rotational",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/Rotational.html",
+   "files": [
+    "Rotational.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Rubber Bandit": {
+   "title": "Rubber Bandit",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/rubber_bandit.html",
+   "files": [
+    "rubber_bandit.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Run": {
+   "title": "Run",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/run_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/run_1/run.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Run 2": {
+   "title": "Run 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/run_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/run_2/run2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Run 3 Flash": {
+   "title": "Run 3 Flash",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/run_3_flash/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Run 3 Scratch": {
+   "title": "Run 3 Scratch",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/run_3_scratch.html",
+   "files": [
+    "run_3_scratch.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Run 3 Turbowarp": {
+   "title": "Run 3 Turbowarp",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/run_3_turbowarp.html",
+   "files": [
+    "run_3_turbowarp.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sandtrix": {
+   "title": "Sandtrix",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/sandtrix.html",
+   "files": [
+    "sandtrix.html",
+    "thumbnail.png"
+   ]
+  },
+  "Scramble": {
+   "title": "Scramble",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/scramble.html",
+   "files": [
+    "scramble.html",
+    "thumbnail.png"
+   ]
+  },
+  "Shape Smasher": {
+   "title": "Shape Smasher",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/shapesmasher.html",
+   "files": [
+    "shapesmasher.html",
+    "thumbnail.png"
+   ]
+  },
+  "Slender": {
+   "title": "Slender",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/slender/index.html",
+   "files": [
+    "Build/UnityLoader.js",
+    "TemplateData/UnityProgress.js",
+    "TemplateData/favicon.ico",
+    "TemplateData/fullscreen.png",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Slime Smash Ultimate": {
+   "title": "Slime Smash Ultimate",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/slime_smash_ultimate.html",
+   "files": [
+    "slime_smash_ultimate.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sling Drift": {
+   "title": "Sling Drift",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/sling_drift.html",
+   "files": [
+    "sling_drift.html",
+    "thumbnail.png"
+   ]
+  },
+  "Slope": {
+   "title": "Slope",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/slope/index.html",
+   "files": [
+    "Build/slope.json",
+    "TemplateData/UnityProgress.js",
+    "TemplateData/style.css",
+    "TemplateData/unityloader41.js",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Snail Bob 1": {
+   "title": "Snail Bob 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/snail_bob_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/snail_bob_1/snail_bob_1.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Snail Bob 2": {
+   "title": "Snail Bob 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/snail_bob_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/snail_bob_2/snail_bob_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Snail Bob 3": {
+   "title": "Snail Bob 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/snail_bob_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/snail_bob_3/snail_bob_3.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Snail Bob 4": {
+   "title": "Snail Bob 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/snail_bob_4/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/snail_bob_4/snail_bob_4.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Snail Bob 5": {
+   "title": "Snail Bob 5",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/snail_bob_5/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/snail_bob_5/snail_bob_5.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Snail Bob 6": {
+   "title": "Snail Bob 6",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/snail_bob_6/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/snail_bob_6/snail_bob_6.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Snail Bob 7": {
+   "title": "Snail Bob 7",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/snail_bob_7/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Snail Bob 8": {
+   "title": "Snail Bob 8",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/snail_bob_8/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/snail_bob_8/snail_bob_8.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Snake": {
+   "title": "Snake",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/snake.html",
+   "files": [
+    "snake.html",
+    "thumbnail.avif"
+   ]
+  },
+  "Snake.io": {
+   "title": "Snake.io",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/snake_io/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic 1": {
+   "title": "Sonic 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/sonic_1/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic 2": {
+   "title": "Sonic 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/sonic_2/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic 3": {
+   "title": "Sonic 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/sonic_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/sonic_3/sonic_3.bin",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic Advance": {
+   "title": "Sonic Advance",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/sonic_advance/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance/content.gba",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance/content.gba",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance/content.gba",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/sonic_advance/content.gba",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance/content.gba",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic Advance 2": {
+   "title": "Sonic Advance 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/sonic_advance_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance_2/content.gba",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance_2/content.gba",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance_2/content.gba",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/sonic_advance_2/content.gba",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance_2/content.gba",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic Advance 3": {
+   "title": "Sonic Advance 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/sonic_advance_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance_3/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance_3/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance_3/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/sonic_advance_3/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_advance_3/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic Battle": {
+   "title": "Sonic Battle",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/sonic_battle/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_battle/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_battle/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_battle/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/sonic_battle/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_battle/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic CD": {
+   "title": "Sonic CD",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/sonic_cd/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic Hellfire Saga": {
+   "title": "Sonic Hellfire Saga",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/sonic_hellfire_saga/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_hellfire_saga/content.gen",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_hellfire_saga/content.gen",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_hellfire_saga/content.gen",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/sonic_hellfire_saga/content.gen",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/sonic_hellfire_saga/content.gen",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic Mania": {
+   "title": "Sonic Mania",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/sonic_mania/index.html",
+   "files": [
+    "Data.js",
+    "RSDKv5U.js",
+    "image_2026-02-26_224423134.png",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic.exe": {
+   "title": "Sonic.exe",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/sonic_exe/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.bin",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sonic Robo Blast 2": {
+   "title": "Sonic Robo Blast 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/sonic_robo_blast_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/javascript2@661c745/sonic_robo_blast_2/assets/srb2.png",
+    "assets/background.jpg",
+    "assets/srb2.png",
+    "assets/srb2logo.png",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Space Frenzy": {
+   "title": "Space Frenzy",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/space_frenzy.html",
+   "files": [
+    "space_frenzy.html",
+    "thumbnail.png"
+   ]
+  },
+  "Space Invaders": {
+   "title": "Space Invaders",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/space-invaders/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/space-invaders/space-invaders.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Space Spam": {
+   "title": "Space Spam",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/space_spam.html",
+   "files": [
+    "space_spam.html",
+    "thumbnail.svg"
+   ]
+  },
+  "Spooky Dash": {
+   "title": "Spooky Dash",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/spooky_dash.html",
+   "files": [
+    "spooky_dash.html",
+    "thumbnail.png"
+   ]
+  },
+  "Sprunki": {
+   "title": "Sprunki",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/sprunki.html",
+   "files": [
+    "sprunki.html",
+    "thumbnail.png"
+   ]
+  },
+  "Stack": {
+   "title": "Stack",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/stack.html",
+   "files": [
+    "stack.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Star Fox": {
+   "title": "Star Fox",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/star_fox/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/star_fox/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Star Fox 2": {
+   "title": "Star Fox 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/star_fox_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox_2/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox_2/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox_2/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/star_fox_2/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox_2/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Star Fox 64": {
+   "title": "Star Fox 64",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/star_fox_64/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox_64/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox_64/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox_64/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/star_fox_64/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/star_fox_64/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Star Seeker": {
+   "title": "Star Seeker",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/star_seeker.html",
+   "files": [
+    "star_seeker.html",
+    "thumbnail.png"
+   ]
+  },
+  "Starlight": {
+   "title": "Starlight",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/starlight.html",
+   "files": [
+    "starlight.html",
+    "thumbnail.png"
+   ]
+  },
+  "Stick RPG": {
+   "title": "Stick RPG",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/stick_rpg/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/stick_rpg/content.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/stick_rpg/content.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/stick_rpg/content.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/stick_rpg/content.swf",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Stick With It": {
+   "title": "Stick With It",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/stick_with_it.html",
+   "files": [
+    "stick_with_it.html",
+    "thumbnail.png"
+   ]
+  },
+  "Stickman Hook": {
+   "title": "Stickman Hook",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/stickman_hook.html",
+   "files": [
+    "stickman_hook.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Strange Aeons": {
+   "title": "Strange Aeons",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gzdoom/strange_aeons/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom/script.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/gzdoom@5460549/strange_aeons/settings.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Strike force Heroes 1": {
+   "title": "Strike force Heroes 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/strike_force_heroes/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/strike_force_heroes/strike_force_heroes.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Strike force Heroes 2": {
+   "title": "Strike force Heroes 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/strike_force_heroes_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/strike_force_heroes_2/strike_force_heroes_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Strike force Heroes 3": {
+   "title": "Strike force Heroes 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/strike_force_heroes_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/strike_force_heroes_3/strike_force_heroes_3.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Submersible": {
+   "title": "Submersible",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/submersible.html",
+   "files": [
+    "submersible.html",
+    "thumbnail.png"
+   ]
+  },
+  "Subway Surfers": {
+   "title": "Subway Surfers",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity@main/subway_surfers/index.html",
+   "files": [
+    "4399.z.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/unity/subway_surfers/Build/SanFrancisco.json",
+    "img/FirstAvatar.png",
+    "index.html",
+    "master-loader.js",
+    "thumbnail.png"
+   ]
+  },
+  "Sugar Sugar": {
+   "title": "Sugar Sugar",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/sugar_sugar/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/sugar_sugar/sugar_sugar.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Suika Game": {
+   "title": "Suika Game",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/suika_game.html",
+   "files": [
+    "suika_game.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Castlevania": {
+   "title": "Super Castlevania",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/super_castlevania/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Liquid Soccer": {
+   "title": "Super Liquid Soccer",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/super_liquid_soccer/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "index.js",
+    "index.pck",
+    "index.wasm",
+    "poki-sdk.js",
+    "thumbnail.png"
+   ]
+  },
+  "Super Mario 63": {
+   "title": "Super Mario 63",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/super-mario-63/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/super-mario-63/supermario63.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/super-mario-63/supermario63.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/super-mario-63/supermario63.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/super-mario-63/supermario63.swf",
+    "index.html",
+    "supermario63.swf",
+    "thumbnail.webp"
+   ]
+  },
+  "Super Mario 64": {
+   "title": "Super Mario 64",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/super_mario_64/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Mario 64 DS": {
+   "title": "Super Mario 64 DS",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2/super_mario_64_ds/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/super_mario_64_ds/content.zip",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/emulatorjs2@main/super_mario_64_ds/content.zip",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/emulatorjs2@main/super_mario_64_ds/content.zip",
+    "_external/raw.githubusercontent.com/arcade-v/emulatorjs2/main/super_mario_64_ds/content.zip",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/emulatorjs2@main/super_mario_64_ds/content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Mario 64_ Liminal Dream": {
+   "title": "Super Mario 64: Liminal Dream",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/liminal_dream/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.7z",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Mario All Stars": {
+   "title": "Super Mario All Stars",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/mario_all_stars/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/mario_all_stars/super-mario-all-stars.smc",
+    "index.html",
+    "thumbnail.webp"
+   ]
+  },
+  "Super Mario Crossover": {
+   "title": "Super Mario Crossover",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/super_mario_crossover/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/super_mario_crossover/content.swf",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/super_mario_crossover/content.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/super_mario_crossover/content.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/super_mario_crossover/content.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/super_mario_crossover/content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Mario Kart": {
+   "title": "Super Mario Kart",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/super_mario_kart/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "super_mario_kart.smc",
+    "thumbnail.png"
+   ]
+  },
+  "Super Mario Maker": {
+   "title": "Super Mario Maker",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp2@main/super_mario_maker/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Mario World": {
+   "title": "Super Mario World",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/super_mario_world/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/super_mario_world/smw.smc",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Super Meat Boy": {
+   "title": "Super Meat Boy",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/super_meat_boy/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Metroid": {
+   "title": "Super Metroid",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/super_metroid/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/super_metroid/super_metroid.sfc",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Smash Flash": {
+   "title": "Super Smash Flash",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/super_smash_flash/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/super_smash_flash/333995_SuperSmashNG.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Super Smash Flash 2": {
+   "title": "Super Smash Flash 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/super_smash_flash_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/super_smash_flash_2/content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Survival Race": {
+   "title": "Survival Race",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity@latest/survival_race/index.html",
+   "files": [
+    "Build/yandexBrotli.data.unityweb",
+    "Build/yandexBrotli.framework.js.unityweb",
+    "Build/yandexBrotli.loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Swing Copters": {
+   "title": "Swing Copters",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/swing_copters.html",
+   "files": [
+    "swing_copters.html",
+    "thumbnail.png"
+   ]
+  },
+  "Tasty Planet": {
+   "title": "Tasty Planet",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/tasty_planet/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/tasty_planet/content.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/tasty_planet/content.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/tasty_planet/content.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/tasty_planet/content.swf",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Tasty Planet DinoTime": {
+   "title": "Tasty Planet DinoTime",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/tasty_planet_dinotime/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/tasty_planet_dinotime/content.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/tasty_planet_dinotime/content.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/tasty_planet_dinotime/content.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/tasty_planet_dinotime/content.swf",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Team Fortress": {
+   "title": "Team Fortress",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2@main/team_fortress/index.html",
+   "files": [
+    "app.bundle.js",
+    "index.html",
+    "loading-bg.jpg",
+    "logo.png",
+    "thumbnail.png"
+   ]
+  },
+  "Terminus": {
+   "title": "Terminus",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/terminus.html",
+   "files": [
+    "terminus.html",
+    "thumbnail.png"
+   ]
+  },
+  "Tetris": {
+   "title": "Tetris",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp2/tetris/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "THE _____ LOOP": {
+   "title": "THE ????? LOOP",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/THE_______LOOP.html",
+   "files": [
+    "THE_______LOOP.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Binding of Isaac Demo": {
+   "title": "The Binding of Isaac Demo",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/isaac/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/isaac/content.swf",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/isaac/content.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/isaac/content.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/isaac/content.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Binding of Isaac Wrath of the Lamb": {
+   "title": "The Binding of Isaac Wrath of the Lamb",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/isaac_lamb/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Henry Stickmin Collection": {
+   "title": "The Henry Stickmin Collection",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/henry_stickmen_collection/index.html",
+   "files": [
+    "AIR-Runtime/air-fs.js",
+    "AIR-Runtime/ruffle-loader.js",
+    "favicon.ico",
+    "index.html",
+    "script.js",
+    "split_swf.js",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "The Impossible Quiz": {
+   "title": "The Impossible Quiz",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/the_impossible_quiz/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/the_impossible_quiz/theimpossiblequiz.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Impossible Quiz 2": {
+   "title": "The Impossible Quiz 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/the_impossible_quiz_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/the_impossible_quiz_2/the_impossible_quiz_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Impossible Quiz book 1": {
+   "title": "The Impossible Quiz book 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/the_impossible_quiz_book_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/the_impossible_quiz_book_1/the_impossible_quiz_book_1.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "The Impossible Quiz book 2": {
+   "title": "The Impossible Quiz book 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/the_impossible_quiz_book_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/the_impossible_quiz_book_2/the_impossible_quiz_book_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Impossible Quiz book 3": {
+   "title": "The Impossible Quiz book 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/the_impossible_quiz_book_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/the_impossible_quiz_book_3/the_impossible_quiz_book_3.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Impossible Quizmas": {
+   "title": "The Impossible Quizmas",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/the_impossible_quizmas/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/the_impossible_quizmas/703401_impossible-xmas.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Legend of Zelda": {
+   "title": "The Legend of Zelda",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/zelda/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Legend of Zelda 2": {
+   "title": "The Legend of Zelda 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/zelda_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Legend of Zelda 3": {
+   "title": "The Legend of Zelda 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/zelda_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "content.zip",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Legend of Zelda Majora's Mask": {
+   "title": "The Legend of Zelda Majora's Mask",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/majoras_mask/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Legend of Zelda Ocarina of Time": {
+   "title": "The Legend of Zelda Ocarina of Time",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/ocarina/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Loop": {
+   "title": "The Loop",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/the_loop.html",
+   "files": [
+    "the_loop.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Man From The Window": {
+   "title": "The Man From The Window",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/the_man_from_the_window/index.html",
+   "files": [
+    "Build/build.framework.js",
+    "Build/build.loader.js",
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Rotation Principle": {
+   "title": "The Rotation Principle",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/the_rotation_principle.html",
+   "files": [
+    "the_rotation_principle.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Second Loop": {
+   "title": "The Second Loop",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/the_second_loop.html",
+   "files": [
+    "the_second_loop.html",
+    "thumbnail.png"
+   ]
+  },
+  "The Visitor": {
+   "title": "The Visitor",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/the_visitor/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/fastly.jsdelivr.net/gh/arcade-v/flash@main/the_visitor/content.swf",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/gcore.jsdelivr.net/gh/arcade-v/flash@main/the_visitor/content.swf",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/ruffle/ruffle.js",
+    "_external/raw.githubusercontent.com/arcade-v/flash/main/the_visitor/content.swf",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "_external/testingcf.jsdelivr.net/gh/arcade-v/flash@main/the_visitor/content.swf",
+    "content.swf",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The World's Hardest Game": {
+   "title": "The World's Hardest Game",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/world\\'s_hardest_game/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The World's Hardest Game 2": {
+   "title": "The World's Hardest Game 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/world\\'s_hardest_game_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/world's_hardest_game_2/_____dagobah_the_worlds_hardest_game_2.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "The World's Hardest Game 3": {
+   "title": "The World's Hardest Game 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/world\\'s_hardest_game_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash/world's_hardest_game_3/worldshardestgame3.swf",
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "They Are Coming": {
+   "title": "They Are Coming",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/they_are_coming/index.html",
+   "files": [
+    "Build/zombieshooterdone.data.br",
+    "Build/zombieshooterdone.framework.js",
+    "Build/zombieshooterdone.loader.js",
+    "background.png",
+    "index.html",
+    "logo.png",
+    "style.css",
+    "thumbnail.png"
+   ]
+  },
+  "Tic Tac Toe": {
+   "title": "Tic Tac Toe",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/tic_tac_toe.html",
+   "files": [
+    "thumbnail.png",
+    "tic_tac_toe.html"
+   ]
+  },
+  "Tiny Fishing": {
+   "title": "Tiny Fishing",
+   "url": "https://raw.githubusercontent.com/arcade-v/javascript/refs/heads/main/tiny_fishing.html",
+   "files": [
+    "thumbnail.png",
+    "tiny_fishing.html"
+   ]
+  },
+  "Toilet Paper Hoarder": {
+   "title": "Toilet Paper Hoarder",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/toilet_paper_hoarder.html",
+   "files": [
+    "thumbnail.png",
+    "toilet_paper_hoarder.html"
+   ]
+  },
+  "Tomb of The Mask": {
+   "title": "Tomb of The Mask",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/tomb_of_the_mask.html",
+   "files": [
+    "thumbnail.png",
+    "tomb_of_the_mask.html"
+   ]
+  },
+  "Tunnel Rush": {
+   "title": "Tunnel Rush",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity/tunnel_rush/index.html",
+   "files": [
+    "UnityProgress.js",
+    "index.html",
+    "style.css",
+    "thumbnail.jpg"
+   ]
+  },
+  "Ultrakill": {
+   "title": "Ultrakill",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/unity@main/ultrakill/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Undertale": {
+   "title": "Undertale",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gamemaker/undertale/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Undertale 2": {
+   "title": "Undertale 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/undertale_2/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Undertale Yellow": {
+   "title": "Undertale Yellow",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/gamemaker/undertale_yellow/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Undertale Last Breath": {
+   "title": "Undertale Last Breath",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/undertale_last_breath/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Unfair Mario": {
+   "title": "Unfair Mario",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/unfair_mario/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Unicycle Hero": {
+   "title": "Unicycle Hero",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript2/unicycle_hero/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Uno": {
+   "title": "Uno",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/uno.html",
+   "files": [
+    "thumbnail.png",
+    "uno.html"
+   ]
+  },
+  "Vampire Survivors": {
+   "title": "Vampire Survivors",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/vampire_survivors/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Vectoid TD 3D": {
+   "title": "Vectoid TD 3D",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/vectoid_TD_3D.html",
+   "files": [
+    "thumbnail.svg",
+    "vectoid_TD_3D.html"
+   ]
+  },
+  "Vex 1": {
+   "title": "Vex 1",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/vex_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.webp"
+   ]
+  },
+  "Vex 2": {
+   "title": "Vex 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/vex_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Vex 3": {
+   "title": "Vex 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/vex_3/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Vex 5": {
+   "title": "Vex 5",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/vex_5/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Vex 6": {
+   "title": "Vex 6",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/vex_6/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.jpeg"
+   ]
+  },
+  "Vex 7": {
+   "title": "Vex 7",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/vex_7/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Vex 8": {
+   "title": "Vex 8",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/vex_8/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Vib Ribbon": {
+   "title": "Vib Ribbon",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/vib_ribbon/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "WarioWare": {
+   "title": "WarioWare",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/wario_ware/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "WarioWare D.I.Y": {
+   "title": "WarioWare D.I.Y.",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs@main/wario_ware_DIY/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Wheely": {
+   "title": "Wheely",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/wheely_1/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Wheely 2": {
+   "title": "Wheely 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/wheely_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Wheely 3": {
+   "title": "Wheely 3",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/wheely_3/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Wheely 4": {
+   "title": "Wheely 4",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/wheely_4/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Wheely 5": {
+   "title": "Wheely 5",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/wheely_5/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Wheely 6": {
+   "title": "Wheely 6",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/wheely_6/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Wheely 7": {
+   "title": "Wheely 7",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/wheely_7/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Wheely 8": {
+   "title": "Wheely 8",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/wheely_8/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "WITCH": {
+   "title": "WITCH",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/witch.html",
+   "files": [
+    "thumbnail.svg",
+    "witch.html"
+   ]
+  },
+  "Witching Hour": {
+   "title": "Witching Hour",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/turbowarp/witching_hour.html",
+   "files": [
+    "thumbnail.png",
+    "witching_hour.html"
+   ]
+  },
+  "Wonderputt": {
+   "title": "Wonderputt",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/wonderputt/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Wrestle Bros": {
+   "title": "Wrestle Bros",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/wrestle_bros/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Yohoho.io": {
+   "title": "Yohoho.io",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/yohoho_io/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Yume Nikki": {
+   "title": "Yume Nikki",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/yume_nikki/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Zenith": {
+   "title": "Zenith",
+   "url": "https://raw.githubusercontent.com/arcade-v/turbowarp/refs/heads/main/zenith.html",
+   "files": [
+    "thumbnail.svg",
+    "zenith.html"
+   ]
+  },
+  "Zombie Rush": {
+   "title": "Zombie Rush",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript/zombie_rush/index.html",
+   "files": [
+    "index.html",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Zombies Ate My Neighbors": {
+   "title": "Zombies Ate My Neighbors",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs/zombies_ate_my_neighbors/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/emulatorjs/emulator/loader.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Zombotron": {
+   "title": "Zombotron",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/zombotron/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Zombotron 2": {
+   "title": "Zombotron 2",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash/zombotron_2/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Zoop!": {
+   "title": "Zoop!",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/zoop/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  },
+  "Zrist": {
+   "title": "Zrist",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/javascript@main/zrist.html",
+   "files": [
+    "thumbnail.png",
+    "zrist.html"
+   ]
+  },
+  "Zuma": {
+   "title": "Zuma",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/flash@main/zuma/index.html",
+   "files": [
+    "_external/cdn.jsdelivr.net/gh/arcade-v/flash@main/ruffle/ruffle.js",
+    "index.html",
+    "thumbnail.jpg"
+   ]
+  },
+  "Zuma\u2019s Revenge": {
+   "title": "Zuma\u2019s Revenge",
+   "url": "https://cdn.jsdelivr.net/gh/arcade-v/emulatorjs2@main/zumas_revenge/index.html",
+   "files": [
+    "index.html",
+    "thumbnail.png"
+   ]
+  }
+ }
+}

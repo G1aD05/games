@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <base href="https://cdn.jsdelivr.net/gh/arcade-v/unity/slope/">
+
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="TemplateData/unityloader41.js"></script>
+
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            background: black;
+        }
+
+        .webgl-content {
+            height: 100%;
+            width: 100%;
+        }
+
+        #gameContainer {
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+
+    <script>
+        var gameInstance = UnityLoader.instantiate(
+            "gameContainer",
+            "Build/slope.json",
+            {
+                onProgress: UnityProgress,
+                Module: {
+                    onRuntimeInitialized: function () {
+                        UnityProgress(gameInstance, "complete");
+                    }
+                }
+            }
+        );
+    </script>
+</head>
+
+<body>
+    <div class="webgl-content">
+        <div id="gameContainer"></div>
+    </div>
+</body>
+</html>
