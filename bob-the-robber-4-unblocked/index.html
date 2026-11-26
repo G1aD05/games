@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no"
+    />
+    <title>Bob the Robber 4</title>
+    <meta
+      name="description"
+      content="Bob the Robber 4 is the fourth game in the Bob the Robber series. This time, Bob has his sights set on France to make his next fortune. Traverse the corridors of various establishments finding loot, and make sure you don’t get caught!"
+    />
+    <meta name="robots" content="noindex,nofollow" />
+    <script>
+      function UnityCallJs() {
+        console.log("unity call!");
+      }
+
+      function UnityCallEndgameJs() {
+        console.log("untiy call end game");
+      }
+
+      function UnityCallPlayJs() {
+        console.log("untiy call Play game");
+      }
+
+      function UnityCallLeaderboardJs() {
+        console.log("untiy call On Leaderboard");
+      }
+
+      function UnityCallAgainJs() {
+        console.log("unity call Again");
+      }
+
+      function UnityCallBackHomeJs() {
+        console.log("untiy call backHome");
+      }
+
+      function UnityCallChangeDayLeaderboardJs() {
+        console.log("untiy call change day leaderboard");
+      }
+
+      function UnityCallCloseLeaderboardJs() {
+        console.log("untiy call close leaderboard");
+      }
+    </script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .webgl-content * {
+        border: 0;
+        margin: 0;
+        padding: 0;
+      }
+      .webgl-content {
+        position: absolute;
+      }
+      .webgl-content,
+      #gameContainer,
+      #unityContainer,
+      canvas {
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .webgl-content .logo,
+      .progress {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
+      .webgl-content .logo {
+        background: url("progressLogo.Light.png") no-repeat center/contain;
+        width: 354px;
+        height: 130px;
+      }
+      .webgl-content .progress {
+        height: 18px;
+        width: 141px;
+        margin-top: 90px;
+      }
+      .webgl-content .progress .empty {
+        background: url("progressEmpty.Light.png") no-repeat right/cover;
+        float: right;
+        width: 100%;
+        height: 100%;
+        display: inline-block;
+      }
+      .webgl-content .progress .full {
+        background: url("progressFull.Light.png") no-repeat left/cover;
+        float: left;
+        width: 0%;
+        height: 100%;
+        display: inline-block;
+      }
+      .webgl-content .logo.Dark {
+        background-image: url(progressLogo.Dark.png);
+      }
+      .webgl-content .progress.Dark .empty {
+        background-image: url(progressEmpty.Dark.png);
+      }
+      .webgl-content .progress.Dark .full {
+        background-image: url(progressFull.Dark.png);
+      }
+      .webgl-content .footer {
+        margin-top: 5px;
+        height: 38px;
+        line-height: 38px;
+        font-family: Helvetica, Verdana, Arial, sans-serif;
+        font-size: 18px;
+      }
+      .webgl-content .footer .webgl-logo,
+      .title,
+      .fullscreen {
+        height: 100%;
+        display: inline-block;
+        background: transparent center no-repeat;
+      }
+      .webgl-content .footer .webgl-logo {
+        background-image: url(webgl-logo.png);
+        width: 204px;
+        float: left;
+      }
+      .webgl-content .footer .title {
+        margin-right: 10px;
+        float: right;
+      }
+      .webgl-content .footer .fullscreen {
+        background-image: url(fullscreen.png);
+        width: 38px;
+        float: right;
+      }
+    </style>
+    <style>
+      #sg-loader { position: fixed; inset: 0; z-index: 10; display: flex; flex-direction: column;
+        align-items: center; justify-content: center; gap: 14px; background: #0b1440;
+        color: #fff; font: 600 15px/1.4 system-ui, -apple-system, sans-serif; transition: opacity .4s; }
+      #sg-loader.done { opacity: 0; pointer-events: none; }
+      #sg-loader h1 { font-size: 34px; letter-spacing: 1px; text-align: center; padding: 0 16px; }
+      #sg-bar { width: min(320px, 70vw); height: 10px; border-radius: 99px; background: rgba(255,255,255,.15); overflow: hidden; }
+      #sg-fill { width: 0; height: 100%; border-radius: 99px; background: #ffc83d; transition: width .2s; }
+      #sg-text { opacity: .75; font-weight: 500; }
+    </style>
+    <script>
+      // Loading screen: covers the black screen while the build downloads and
+      // starts. Fades out after the game starts, or 15 s after the download.
+      function showProgress(instance, progress) {
+        if (typeof UnityProgress === "function") UnityProgress(instance, progress);
+        var fill = document.getElementById("sg-fill"), text = document.getElementById("sg-text");
+        if (!fill || !text) return;
+        var percent = Math.round(Math.min(progress, 1) * 100);
+        fill.style.width = percent + "%";
+        text.textContent = percent < 100 ? "Loading game… " + percent + "%" : "Starting game…";
+        if (percent === 100 && !showProgress.fallback) showProgress.fallback = setTimeout(hideLoader, 15000);
+      }
+      function hideLoader() {
+        var loader = document.getElementById("sg-loader");
+        if (loader) loader.className = "done";
+      }
+      function gameStarted() { setTimeout(hideLoader, 1500); }
+    </script>
+  </head>
+  <body style="margin: 0 auto; overflow: hidden">
+    <div id="sg-loader">
+      <h1>BOB THE ROBBER 4</h1>
+      <div id="sg-bar"><div id="sg-fill"></div></div>
+      <div id="sg-text">Loading game… 0%</div>
+    </div>
+    
+    <div class="webgl-content">
+      <div
+        id="gameContainer"
+        style="width: 100%; height: 100%; margin: 0"
+      ></div>
+    </div>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a60b265e5c51cb73',t:'MTc5NTcxOTc3MQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a60b265e5c51cb73',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+  <script src="/bob_the_robber_4/UnityLoader2019.js"></script>
+  <script>
+    var gameInstance = UnityLoader.instantiate("gameContainer", "/bob_the_robber_4/web.json", {
+      onProgress: showProgress,
+      Module: { onRuntimeInitialized: gameStarted },
+    });
+
+    function UnityProgress(gameInstance, progress) {
+      if (!gameInstance.Module) {
+        return;
+      }
+      // progressBarFull.style.width = 100 * progress + "%";
+      // if (progress === 1 && !gameInstance.removeTimeout) {
+      //   loadingBar.style.display = "none";
+      //   gameInstance.removeTimeout = setTimeout(function() {
+      //       loadingBar.style.display = "none";
+      //   }, 2000);
+      //   fullscreenButton.onclick = () => {
+      //     gameInstance.SetFullscreen(1);
+      //   };
+      // }
+    }
+  </script>
+</html>
