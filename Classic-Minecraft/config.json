@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "defaultHost": "<from-proxy>",
+  "defaultProxy": "https://server.duckcraft.top",
+  "mapsProvider": "https://duckcraft.top",
+  "skinTexturesProxy": "",
+  "peerJsServer": "",
+  "peerJsServerFallback": "https://p2p.mcraft.fun",
+  "promoteServers": [
+    {
+      "ip": "wss://my.duckcraft.top",
+      "name": "Duckcraft Online",
+      "version": "1.12.2"
+    },
+    {
+      "ip": "wss://survival.duckcraft.top",
+      "name": "Duckcraft Survival",
+      "version": "1.12.2"
+    },
+    {
+      "ip": "wss://mystic.duckcraft.top",
+      "name": "Duckcraft Mystic",
+      "version": "1.12.2"
+    },
+    {
+      "ip": "my.duckcraft.top",
+      "name": "Duckcraft Online (Proxy)",
+      "version": "1.12.2"
+    },
+    {
+      "ip": "survival.duckcraft.top",
+      "name": "Duckcraft Survival (Proxy)",
+      "version": "1.12.2"
+    },
+    {
+      "ip": "mystic.duckcraft.top",
+      "name": "Duckcraft Mystic (Proxy)",
+      "version": "1.12.2"
+    }
+  ],
+  "defaultUsername": "duck{10000000-99999999}",
+  "mobileButtons": [
+    {
+      "action": "general.drop",
+      "actionHold": "general.dropStack",
+      "label": "Q"
+    },
+    {
+      "action": "general.selectItem",
+      "actionHold": "",
+      "label": "S"
+    },
+    {
+      "action": "general.debugOverlay",
+      "actionHold": "general.debugOverlayHelpMenu",
+      "label": "F3"
+    },
+    {
+      "action": "general.playersList",
+      "actionHold": "",
+      "icon": "pixelarticons:users",
+      "label": "TAB"
+    },
+    {
+      "action": "general.chat",
+      "actionHold": "",
+      "label": ""
+    },
+    {
+      "action": "ui.pauseMenu",
+      "actionHold": "",
+      "label": ""
+    }
+  ]
+}
