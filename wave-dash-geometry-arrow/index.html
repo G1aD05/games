@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title id="page-title">Wave Dash: Geometry Arrow Unblocked - Play Wave Dash: Geometry Arrow on Classroom 6x</title>
+<link rel="icon" type="image/png" href="https://classroom-6x.io/images/icon.png">
+<meta name="description" content="Wave Dash: Geometry Arrow Unblocked. Play Wave Dash: Geometry Arrow Unblocked on Classroom 6x for Free.">
+<link rel="canonical" href="https://classroom-6x.io/game/wave-dash-geometry-arrow/" />
+<meta name="robots" content="noindex, nofollow">
+   </head>
+<body>
+    <!-- Loader -->
+    <div id="loader">
+        <div id="preloader">
+            <div id="preloader-top">
+                <img id="thumbnail" alt="Game Logo" src="icon.png">
+                <div id="preloader-top-container">
+                    <div id="game-title">Loading...</div>
+                    <div id="progress-container">
+                        <div id="progress-bar">
+                            <div id="progress-fill"></div>
+                        </div>
+                        <div id="progress-amount">0%</div>
+                    </div>
+                    <div id="progress-comment">Initializing...</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Game Container -->
+    <div id="game-container" class="hidden">
+        <div id="game" style="width: 100%; height: 100%; position: relative; background: rgb(35, 31, 32);">
+            <canvas id="canvas" style="width: 100%; height: 100%; display: block;"></canvas>
+        </div>
+    </div>
+
+    <script src="./scripts/arcadrome/loaders/UnityLoader.js?v1"></script>
+    
+    <script>
+        const GAME_CONFIG = {
+            productName: "Wave Dash: Geometry Arrow",
+            dataUrl: "Build/wave-dash.data.br",
+            frameworkUrl: "Build/wave-dash.framework.js.br",
+            codeUrl: "Build/wave-dash.wasm.br",
+            loaderUrl: "Build/wave-dash.loader.js",
+            
+            productVersion: "1.0",
+            companyName: "Arcadrome",
+            icon: "icon.png"
+        };
+
+        (function loadGame() {
+            document.getElementById("page-title").textContent = GAME_CONFIG.productName;
+            GameLoader.init(GAME_CONFIG);
+            const loaderScript = document.createElement("script");
+            loaderScript.src = GAME_CONFIG.loaderUrl;
+            
+            loaderScript.onload = function() {
+                createUnityInstance(
+                    document.getElementById("canvas"),
+                    GAME_CONFIG,
+                    GameLoader.updateProgress
+                )
+                .then(function(unityInstance) {
+                    window.gameInstance = unityInstance;
+                    console.log("Game loaded successfully");
+                })
+                .catch(function(error) {
+                    console.error("Failed to load game:", error);
+                    if (GameLoader.ui.comment) {
+                        GameLoader.ui.comment.textContent = "Failed to load game";
+                    }
+                });
+            };
+            
+            loaderScript.onerror = function() {
+                console.error("Failed to load loader script");
+                if (GameLoader.ui.comment) {
+                    GameLoader.ui.comment.textContent = "Failed to load game";
+                }
+            };
+            
+            document.body.appendChild(loaderScript);
+        })();
+    </script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9e1a8f5bffa275e1',t:'MTc3NDQwNjUyMg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
