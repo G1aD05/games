@@ -1,0 +1,146 @@
+<html>
+  <head>
+    <title>shaw</title>
+    <script>
+      window.gameconfig = {
+        name: "Animal Crossing - Wild World (USA)",
+        url: "https://cdn.jsdelivr.net/gh/bubbls/ugss@4cee1f0ea2fbd85800ca8d90804abe42ce8dfb33/Animal%20Crossing%20-%20Wild%20World%20(USA)%20(Rev%201)/Animal%20Crossing%20-%20Wild%20World%20(USA)%20(Rev%201).nds",
+        core: "nds",
+        min: 1,
+        max: 2,
+      };
+    </script>
+    <script>
+      // Downloads all parts at once and reports bytes, so the loader can
+      // show real progress for the 33 MB game file.
+      async function mergeFiles(fileParts, cb) {
+        const loaded = fileParts.map(() => 0);
+        const totals = fileParts.map(() => 0);
+        const report = () => cb(loaded.reduce((a, b) => a + b, 0), totals.reduce((a, b) => a + b, 0));
+        const buffers = await Promise.all(fileParts.map(async (url, i) => {
+          const response = await fetch(url);
+          if (!response.ok) throw new Error(url + " " + response.status);
+          totals[i] = Number(response.headers.get("Content-Length")) || 0;
+          const reader = response.body.getReader();
+          const chunks = [];
+          for (;;) {
+            const { done, value } = await reader.read();
+            if (done) break;
+            chunks.push(value);
+            loaded[i] += value.length;
+            report();
+          }
+          return new Blob(chunks);
+        }));
+        return URL.createObjectURL(new Blob(buffers));
+      }
+      function getParts(file, start, end) {
+        let parts = [];
+        for (let i = start; i <= end; i++) {
+          parts.push(file + ".part" + i);
+        }
+        return parts;
+      }
+    </script>
+    <style>
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        background-color: #121212;
+        color: white;
+        font-family: Arial, sans-serif;
+      }
+      #game-container {
+        text-align: center;
+        width: 100%;
+        height: 100%;
+      }
+      #loading-progress {
+        font-size: 16px;
+        margin-top: 14px;
+        opacity: 0.8;
+      }
+      #loading-title {
+        font-size: 30px;
+        font-weight: bold;
+      }
+      #loading-bar {
+        width: min(320px, 70vw);
+        height: 10px;
+        margin: 18px auto 0;
+        border-radius: 99px;
+        background: rgba(255, 255, 255, 0.15);
+        overflow: hidden;
+      }
+      #loading-fill {
+        width: 0;
+        height: 100%;
+        border-radius: 99px;
+        background: #ffc83d;
+        transition: width 0.2s;
+      }
+      #first-time {
+        margin-top: 8px;
+        font-size: 13px;
+        opacity: 0.6;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="game-container">
+      <div id="game"></div>
+      <div id="loading">
+        <div id="loading-title">Animal Crossing</div>
+        <div id="loading-bar"><div id="loading-fill"></div></div>
+        <div id="loading-progress">Loading game…</div>
+        <div id="first-time">First load downloads about 33 MB. Later visits are faster.</div>
+      </div>
+    </div>
+    <script>
+      var parts = getParts(
+        window.gameconfig.url,
+        window.gameconfig.min,
+        window.gameconfig.max
+      );
+      function updateLoadingProgress(loaded, total) {
+        const mb = (bytes) => (bytes / 1048576).toFixed(1);
+        const progressElement = document.getElementById("loading-progress");
+        if (!total) {
+          progressElement.textContent = `Loading game… ${mb(loaded)} MB`;
+          return;
+        }
+        const percent = Math.min(100, Math.round((loaded / total) * 100));
+        document.getElementById("loading-fill").style.width = percent + "%";
+        progressElement.textContent = `Loading game… ${mb(loaded)} / ${mb(total)} MB (${percent}%)`;
+      }
+
+      Promise.all([mergeFiles(parts, updateLoadingProgress)])
+        .then(([gameUrl]) => {
+          document.getElementById("loading").remove();
+          EJS_player = "#game";
+          EJS_core = window.gameconfig.core;
+          EJS_gameName = window.gameconfig.name;
+          EJS_color = "#0064ff";
+          EJS_startOnLoaded = true;
+          EJS_language = "en-US";
+          EJS_pathtodata = "/animal_crossing/emulatorjs/data/";
+          EJS_gameUrl = gameUrl;
+          const script = document.createElement("script");
+          script.src =
+            "/animal_crossing/emulatorjs/data/loader.js";
+          document.body.appendChild(script);
+        })
+        .catch((error) => {
+          console.error(error);
+          document.getElementById("loading-progress").textContent =
+            "Error loading game. Press Reload to try again.";
+        });
+    </script>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a60b260fc871b642',t:'MTc5NTcxOTc1OQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a60b260fc871b642',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
