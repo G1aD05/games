@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>ducky</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"
+    />
+
+    <meta name="generator" content="Construct 3" />
+
+    <link rel="manifest" href="appmanifest.json" />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <script>
+      window.addEventListener(
+        "keydown",
+        function (e) {
+          // space and arrow keys
+          if ([32, 37, 38, 39, 40].indexOf(e.keyCode) > -1) {
+            e.preventDefault();
+          }
+        },
+        false
+      );
+    </script>
+  </head>
+  <body style="overflow: hidden">
+    <div id="fb-root"></div>
+    <script src="box2d.wasm.js"></script>
+    <noscript>
+      <div id="notSupportedWrap">
+        <h2 id="notSupportedTitle">This content requires JavaScript</h2>
+        <p class="notSupportedMessage">
+          JavaScript appears to be disabled. Please enable it to view this
+          content.
+        </p>
+        <p class="notSupportedMessage">
+          This game was developed with Construct.
+          <a href="https://www.construct.net/en">Build your own games</a>
+        </p>
+      </div>
+    </noscript>
+    <script src="scripts/supportcheck.js"></script>
+    <script src="scripts/offlineclient.js"></script>
+    <script src="scripts/main.js"></script>
+    <script src="scripts/register-sw.js"></script>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a60b263d5b445ecc',t:'MTc5NTcxOTc2Ng=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a60b263d5b445ecc',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

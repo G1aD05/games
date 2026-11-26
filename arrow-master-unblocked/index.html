@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Build embeds a domain-lock payload that injects api.iclouds.io/g/config.js,
+         which wipes document.body on non-whitelisted domains. Block third-party scripts. -->
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <title>Arrow Master</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <style>
+      html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: #231f20;
+      }
+      .webgl-content {
+        position: fixed;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        -webkit-transform: none;
+        transform: none;
+      }
+      #unityContainer {
+        width: 100% !important;
+        height: 100% !important;
+      }
+      #unityContainer canvas {
+        display: block;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      #gameLoading {
+        position: fixed;
+        inset: 0;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #231f20;
+        color: #fff;
+        font: 16px/1.4 Arial, sans-serif;
+        text-align: center;
+      }
+      #gameLoading[hidden] { display: none; }
+      .loading-card { width: min(280px, 80vw); }
+      #loadingStatus { margin: 0 0 12px; font-size: 20px; font-weight: bold; }
+      #loadingBar { display: block; width: 100%; height: 16px; accent-color: #ffd21c; }
+      #loadingPercent { margin: 8px 0; font-weight: bold; }
+      .loading-note { margin: 0; color: #c7c3c4; font-size: 13px; }
+    </style>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="unityContainer"></div>
+      <div class="footer" style="display: none;">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+        <div class="title">Arrow Master</div>
+      </div>
+    </div>
+    <div id="gameLoading">
+      <div class="loading-card">
+        <p id="loadingStatus" role="status">Loading Arrow Master</p>
+        <progress id="loadingBar" max="100" value="0" aria-label="Arrow Master loading progress"></progress>
+        <p id="loadingPercent">0%</p>
+        <p class="loading-note">First load may take a little longer.</p>
+      </div>
+    </div>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      function ArrowMasterProgress(instance, progress) {
+        if (!Number.isFinite(progress)) return;
+        var percent = Math.round(Math.max(0, Math.min(1, progress)) * 100);
+        document.getElementById("loadingBar").value = percent;
+        document.getElementById("loadingPercent").textContent = percent + "%";
+        if (progress >= 0.9) {
+          document.getElementById("loadingStatus").textContent = "Starting game…";
+        }
+        if (progress >= 1) {
+          document.getElementById("gameLoading").hidden = true;
+        }
+      }
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/arrow-master-online.json", {onProgress: ArrowMasterProgress});
+    </script>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a60b26345f2cc8da',t:'MTc5NTcxOTc2NQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a60b26345f2cc8da',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
