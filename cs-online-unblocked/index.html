@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>shaw</title>
+
+    <link rel="shortcut icon" href="TemplateData/favicon.ico" />
+    <link rel="stylesheet" href="TemplateData/style.css" />
+
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+
+    <style type="text/css">
+      body {
+        overflow: hidden;
+      }
+    </style>
+
+
+
+
+    
+    <!-- Removed: broken ad-loader script — original CDN URL was truncated to just hostname,
+         causing a 404 HTML response that crashed Unity with "Unexpected token '<'" -->
+
+    <script>
+      function SubmitLeaderboardScore(newScore) {}
+
+      function GetLeaderboardEntries() {}
+
+      function InitApi(_appId) {
+        var dateNow = new Date();
+        var secondsSinceEpoch = Math.round(dateNow.getTime() / 1000);
+
+        console.log("InitApi");
+
+        window.callTime = secondsSinceEpoch - 181;
+      }
+
+      function InitExternEval(_appId) {
+        console.log("InitExternEval");
+
+        ExternEval();
+      }
+
+      function ExternEval() {
+        console.log("ExternEval");
+
+        var dateNow = new Date();
+        var secondsSinceEpoch = Math.round(dateNow.getTime() / 1000);
+
+        if (
+          window.callTime != undefined &&
+          secondsSinceEpoch - window.callTime > 180
+        ) {
+          console.log("ExternEval 2");
+
+          window.callTime = secondsSinceEpoch;
+
+          if (typeof preroll !== "undefined") {
+            if (window[preroll.config.loaderObjectName] != undefined) {
+              gameInstance.SendMessage("FreezeNovaAPI", "AdMessage", "onOpen");
+
+              try {
+                window[preroll.config.loaderObjectName].refetchAd(
+                  ExternEvalResumeGame
+                );
+              } catch (err) {
+                console.log(err.message);
+                gameInstance.SendMessage(
+                  "FreezeNovaAPI",
+                  "AdMessage",
+                  "onClose"
+                );
+              }
+            }
+          }
+        }
+      }
+
+      function ExternEvalResumeGame() {
+        console.log("ExternEvalResumeGame");
+
+        gameInstance.SendMessage("FreezeNovaAPI", "AdMessage", "onClose");
+      }
+
+      function PreloadRewarded() {
+        console.log("PreloadRewarded");
+
+        if (window.rewardedCallbacks == undefined) {
+          window.rewardedCallbacks = true;
+
+          try {
+            window[
+              window.preroll.config.loaderObjectName
+            ].registerRewardCallbacks({
+              onReady: RewardedReady,
+              onSuccess: RewardedSuccess,
+              onFail: RewardedFail,
+              onClose: RewardedClose,
+            });
+          } catch (err) {
+            console.log(err.message);
+          }
+        }
+      }
+
+      function ShowRewarded() {
+        console.log("ShowRewarded");
+
+        if (typeof preroll !== "undefined") {
+          if (window.rewardedCallbacks == undefined) {
+            PreloadRewarded();
+          }
+
+          if (window[preroll.config.loaderObjectName] != undefined) {
+            gameInstance.SendMessage("FreezeNovaAPI", "AdMessage", "onOpen");
+
+            try {
+              window[preroll.config.loaderObjectName].showRewardAd();
+            } catch (err) {
+              console.log(err.message);
+              gameInstance.SendMessage("FreezeNovaAPI", "AdMessage", "onClose");
+            }
+          }
+        }
+      }
+
+      function RewardedReady() {
+        console.log("RewardedReady");
+
+        if (window.rewardedCount == undefined) {
+          window.rewardedCount = 1;
+          window.gameInstance.SendMessage("FreezeNovaAPI", "RewardedReady");
+        } else {
+          window.rewardedCount = window.rewardedCount + 1;
+          //setTimeout(function(){ window.gameInstance.SendMessage('FreezeNovaAPI', 'RewardedReady'); }, 30000);
+          window.gameInstance.SendMessage("FreezeNovaAPI", "RewardedReady");
+        }
+      }
+
+      function RewardedSuccess() {
+        console.log("RewardedSuccess");
+        gameInstance.SendMessage(
+          "FreezeNovaAPI",
+          "AdMessage",
+          "RewardedOnRewarded"
+        );
+        //gameInstance.SendMessage('FreezeNovaAPI', 'AdMessage', 'onClose');
+      }
+
+      function RewardedFail() {
+        console.log("RewardedFail");
+        gameInstance.SendMessage(
+          "FreezeNovaAPI",
+          "AdMessage",
+          "RewardedOnFail"
+        );
+        //gameInstance.SendMessage('FreezeNovaAPI', 'AdMessage', 'onClose');
+      }
+
+      function RewardedClose() {
+        console.log("RewardedClose");
+        gameInstance.SendMessage("FreezeNovaAPI", "AdMessage", "onClose");
+      }
+
+      InitApi(0);
+    </script>
+
+    <script>
+      // Fix: keyboard stops working after Escape exits pointer lock in Unity WebGL FPS
+      // When pointer lock releases, Unity canvas loses browser focus → WASD/keys stop firing.
+      // This handler re-focuses the canvas and re-requests pointer lock on next canvas click.
+      document.addEventListener('pointerlockchange', function () {
+        if (!document.pointerLockElement) {
+          setTimeout(function () {
+            var canvas = document.querySelector('#gameContainer canvas');
+            if (!canvas) return;
+            canvas.setAttribute('tabindex', '1');
+            canvas.focus();
+            // Restore pointer lock (mouse look) when user clicks the canvas again
+            canvas.addEventListener('click', function () {
+              try { canvas.requestPointerLock(); } catch (e) {}
+            }, { once: true });
+          }, 50);
+        }
+      });
+
+      // Ensure canvas gets focus whenever the user clicks anywhere in the game
+      document.addEventListener('click', function () {
+        var canvas = document.querySelector('#gameContainer canvas');
+        if (canvas) canvas.focus();
+      });
+    </script>
+
+    <script>
+      function FitScreen() {
+        var w = window.innerWidth;
+        var h = window.innerHeight;
+
+        var availWidth = window.innerWidth;
+        var availHeight = window.innerHeight;
+
+        var canvas = document.getElementById("#canvas");
+        var width = availWidth;
+        var height = availHeight;
+
+        if (availWidth / availHeight > w / h) {
+          height = availHeight;
+          width = (height * w) / h;
+        } else {
+          width = availWidth;
+          height = (width * h) / w;
+        }
+
+        canvas.width = width;
+        canvas.height = height;
+
+        document.getElementById("gameContainer").style.width = width + "px";
+        document.getElementById("gameContainer").style.height = height + "px";
+      }
+
+      var gameInstance = UnityLoader.instantiate(
+        "gameContainer",
+        "Build/game.json?repair=20261010",
+        { onProgress: UnityProgress }
+      );
+    </script>
+  </head>
+  <body
+    onfocus="FitScreen();"
+    onload="FitScreen();"
+    onresize="FitScreen();"
+    style="width: 100%; height: 100%"
+  >
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: auto; height: auto"></div>
+    </div>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a60b26a01ba6ff17',t:'MTc5NTcxOTc4Mg=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a60b26a01ba6ff17',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
